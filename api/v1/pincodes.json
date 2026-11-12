@@ -66,8 +66,7 @@
         "housing_proxies": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560034/dim_housing_density_proxies.json",
         "localities": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560034/dim_localities.json",
         "popular_times": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560034/fact_popular_times.json",
-        "mobility": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560034/log_mobility.json",
-        "excel_workbook": "https://github.com/SPKumar944/bengaluru-cloud-kitchen-api/raw/main/data/560034_koramangala/Koramangala_560034_Cloud_Kitchen_Master_Dataset.xlsx"
+        "mobility": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560034/log_mobility.json"
       }
     },
     {
@@ -131,8 +130,7 @@
         "housing_proxies": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560041/dim_housing_density_proxies.json",
         "localities": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560041/dim_localities.json",
         "popular_times": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560041/fact_popular_times.json",
-        "mobility": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560041/log_mobility.json",
-        "excel_workbook": "https://github.com/SPKumar944/bengaluru-cloud-kitchen-api/raw/main/data/560041_jayanagar/Jayanagar_560041_Cloud_Kitchen_Master_Dataset.xlsx"
+        "mobility": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560041/log_mobility.json"
       }
     },
     {
@@ -196,8 +194,7 @@
         "housing_proxies": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560038/dim_housing_density_proxies.json",
         "localities": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560038/dim_localities.json",
         "popular_times": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560038/fact_popular_times.json",
-        "mobility": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560038/log_mobility.json",
-        "excel_workbook": "https://github.com/SPKumar944/bengaluru-cloud-kitchen-api/raw/main/data/560038_indiranagar/Indiranagar_560038_Cloud_Kitchen_Master_Dataset.xlsx"
+        "mobility": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560038/log_mobility.json"
       }
     },
     {
@@ -261,8 +258,7 @@
         "housing_proxies": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560102/dim_housing_density_proxies.json",
         "localities": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560102/dim_localities.json",
         "popular_times": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560102/fact_popular_times.json",
-        "mobility": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560102/log_mobility.json",
-        "excel_workbook": "https://github.com/SPKumar944/bengaluru-cloud-kitchen-api/raw/main/data/560102_hsr_layout/HSR_Layout_560102_Cloud_Kitchen_Master_Dataset.xlsx"
+        "mobility": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560102/log_mobility.json"
       }
     }
   ]

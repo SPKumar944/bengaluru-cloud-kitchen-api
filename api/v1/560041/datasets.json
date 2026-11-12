@@ -200,8 +200,7 @@
         "list_and_filter": "/api/v1/pincodes/560041/datasets/dim_localities",
         "detail_or_edit": "/api/v1/pincodes/560041/datasets/dim_localities/{id}"
       },
-      "static_api_url": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560041/dim_localities.json",
-      "raw_csv_url": "https://github.com/SPKumar944/bengaluru-cloud-kitchen-api/raw/main/data/560041_jayanagar/dim_localities.csv"
+      "static_api_url": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560041/dim_localities.json"
     },
     {
       "dataset_name": "dim_housing_density_proxies",
@@ -311,8 +310,7 @@
         "list_and_filter": "/api/v1/pincodes/560041/datasets/dim_housing_density_proxies",
         "detail_or_edit": "/api/v1/pincodes/560041/datasets/dim_housing_density_proxies/{id}"
       },
-      "static_api_url": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560041/dim_housing_density_proxies.json",
-      "raw_csv_url": "https://github.com/SPKumar944/bengaluru-cloud-kitchen-api/raw/main/data/560041_jayanagar/dim_housing_density_proxies.csv"
+      "static_api_url": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560041/dim_housing_density_proxies.json"
     },
     {
       "dataset_name": "fact_demand_generators",
@@ -430,8 +428,7 @@
         "list_and_filter": "/api/v1/pincodes/560041/datasets/fact_demand_generators",
         "detail_or_edit": "/api/v1/pincodes/560041/datasets/fact_demand_generators/{id}"
       },
-      "static_api_url": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560041/fact_demand_generators.json",
-      "raw_csv_url": "https://github.com/SPKumar944/bengaluru-cloud-kitchen-api/raw/main/data/560041_jayanagar/fact_demand_generators.csv"
+      "static_api_url": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560041/fact_demand_generators.json"
     },
     {
       "dataset_name": "fact_competitors",
@@ -601,8 +598,7 @@
         "list_and_filter": "/api/v1/pincodes/560041/datasets/fact_competitors",
         "detail_or_edit": "/api/v1/pincodes/560041/datasets/fact_competitors/{id}"
       },
-      "static_api_url": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560041/fact_competitors.json",
-      "raw_csv_url": "https://github.com/SPKumar944/bengaluru-cloud-kitchen-api/raw/main/data/560041_jayanagar/fact_competitors.csv"
+      "static_api_url": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560041/fact_competitors.json"
     },
     {
       "dataset_name": "fact_popular_times",
@@ -808,8 +804,7 @@
         "list_and_filter": "/api/v1/pincodes/560041/datasets/fact_popular_times",
         "detail_or_edit": "/api/v1/pincodes/560041/datasets/fact_popular_times/{id}"
       },
-      "static_api_url": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560041/fact_popular_times.json",
-      "raw_csv_url": "https://github.com/SPKumar944/bengaluru-cloud-kitchen-api/raw/main/data/560041_jayanagar/fact_popular_times.csv"
+      "static_api_url": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560041/fact_popular_times.json"
     },
     {
       "dataset_name": "log_mobility",
@@ -1015,8 +1010,7 @@
         "list_and_filter": "/api/v1/pincodes/560041/datasets/log_mobility",
         "detail_or_edit": "/api/v1/pincodes/560041/datasets/log_mobility/{id}"
       },
-      "static_api_url": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560041/log_mobility.json",
-      "raw_csv_url": "https://github.com/SPKumar944/bengaluru-cloud-kitchen-api/raw/main/data/560041_jayanagar/log_mobility.csv"
+      "static_api_url": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1/560041/log_mobility.json"
     }
   ]
 }
