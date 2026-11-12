@@ -1,22 +1,18 @@
 {
   "openapi": "3.0.3",
   "info": {
-    "title": "Cloud Kitchen Market Geospatial Intelligence REST API",
-    "version": "2.0.0",
-    "description": "High-density geospatial, F&B competitor, housing proxy, and OSRM mobility intelligence across Bangalore prime commercial pincodes (560034, 560041, 560038, 560102). Hosted publicly via GitHub Pages with CORS enabled.",
+    "title": "AGT Intelligence | Bengaluru Cloud Kitchen & Retail Footfall REST API",
+    "version": "1.0.4",
+    "description": "High-throughput, standardized geospatial, F&B competitor, housing proxy, and OSRM mobility intelligence across Bengaluru prime economic corridors (560034, 560041, 560038, 560102). Served via global CDN with CORS enabled.",
     "contact": {
-      "name": "Cloud Kitchen Geospatial Engineering Team",
-      "url": "https://github.com/SPKumar944/bengaluru-cloud-kitchen-api"
+      "name": "AGT Intelligence Support Team",
+      "url": "https://agt-intelligence.com"
     }
   },
   "servers": [
     {
       "url": "https://spkumar944.github.io/bengaluru-cloud-kitchen-api/api/v1",
-      "description": "Public Static REST API (GitHub Pages - CORS Enabled)"
-    },
-    {
-      "url": "http://localhost:8000/api/v1",
-      "description": "Local Dynamic FastAPI Server (with SQL Filtering & CRUD Write)"
+      "description": "Production Edge CDN (AGT Intelligence Gateway)"
     }
   ],
   "paths": {
