@@ -1,0 +1,927 @@
+Part No,Section_Clean,PS_Clean,voters,unique_houses,mean_age,pct_18_29,pct_30_44,pct_45_59,pct_60_plus,male_pct
+1,&nbsp;&nbsp; part no. : 1,"1 - Govt Model Primary School ,Room No-01",99,70,48.7,14.1,18.2,51.5,16.2,47.5
+1,"Jaragan Halli Gramatana, Freesite , Jaraganahalli Main Road","1 - Govt Model Primary School ,Room No-01",702,423,42.1,25.5,33.0,27.4,14.1,46.7
+2,"Jaragan Halli Gramatana, Freesite , Jaraganahalli Main Road","2 - Govt Model Primary School,Room No-02",830,446,44.4,19.3,32.5,32.2,16.0,48.1
+3,jaraganahalli. part no. : 3,"3 - Govt Model Primary School ,Room No-03",801,371,44.2,18.1,35.7,32.1,14.1,46.4
+4,Jaraganahalli tayappa lolappa gardan basavaraj layout.,"4 - Govt Model Primary School,Room No-04",852,458,44.7,19.2,34.2,28.8,17.8,48.0
+5,jaraganahalli rose garden. part no. : 5,"5 - Govt Model Primary School ,Room No-05",757,432,47.7,16.8,28.8,29.1,25.4,46.0
+6,Adarsha Nivas Layout,"6 - Govt Model Primary School ,Room No-06",61,47,50.4,8.2,34.4,31.1,26.2,49.2
+6,jaraganahalli rose garden. part no. : 6,"6 - Govt Model Primary School ,Room No-06",484,295,44.9,19.2,33.1,28.3,19.4,46.3
+6,"rose gardan Basavaraj Colony, Kuvempu Road","6 - Govt Model Primary School ,Room No-06",98,66,45.6,14.3,38.8,26.5,20.4,45.9
+7,"Jaraganahalli, Nanjappa Layout, Anthoni Industrieal Area,",7 - Shi Vivekananda Education Society (R ) Room No-01,685,303,44.3,16.2,35.0,33.3,15.5,47.3
+8,"Jaraganahalli, Nanjappa Layout, Anthoni Industrieal Area,",8 - Shi Vivekananda Education Society (R ) Room No-02,669,371,45.9,19.4,27.4,33.0,20.2,47.4
+9,"jaraganahalli government model primary shale-annayyappa garden, naidu layout, ja",9 - SUN JUPITER INTERNATIONAL SCHOOL ROOM NO,738,350,44.3,17.1,35.6,32.1,15.2,48.2
+10,"Jaraganahalli, Naidu Layout, Munishamappa Layout,",10 - SUN JUPITER INTERNATIONAL SCHOOL ROOM,561,238,41.8,24.4,34.8,28.5,12.3,45.8
+11,"Jaraganahalli, Naidu Layout, Munishamappa Layout,",11 - SUN JUPITER INTERNATIONAL SCHOOL ROOM,608,338,48.3,10.0,31.6,35.2,23.2,51.2
+12,"Jaraganahalli, Naidu Layout, Munishamappa Layout,",12 - SUN JUPITER INTERNATIONAL SCHOOL ROOM,420,215,41.5,21.9,41.9,23.1,13.1,50.5
+13,"J. P Nagar, N. R.Layout, Mahathmagandhi Layout.",13 - The Oxford Kannada Shishu Vihar and Higher,369,183,52.9,7.0,22.2,36.0,34.7,48.8
+13,K . R . Layout,13 - The Oxford Kannada Shishu Vihar and Higher,176,142,44.8,22.2,29.5,30.1,18.2,44.3
+13,"K R Layout, 17th Cross",13 - The Oxford Kannada Shishu Vihar and Higher,8,7,32.8,50.0,25.0,25.0,0.0,25.0
+13,"K R Layout, 20th Cross",13 - The Oxford Kannada Shishu Vihar and Higher,15,12,45.3,13.3,33.3,40.0,13.3,46.7
+13,"K R Layout, 3rd Cross",13 - The Oxford Kannada Shishu Vihar and Higher,37,26,43.1,24.3,32.4,24.3,18.9,48.6
+13,"K R Layout, 4th Cross",13 - The Oxford Kannada Shishu Vihar and Higher,29,27,37.9,34.5,37.9,24.1,3.4,51.7
+13,"K R Layout, 5th Cross",13 - The Oxford Kannada Shishu Vihar and Higher,18,14,40.1,16.7,55.6,11.1,16.7,55.6
+13,"K R Layout, 7th Cross",13 - The Oxford Kannada Shishu Vihar and Higher,39,27,47.6,15.4,38.5,23.1,23.1,43.6
+14,"3rd Cross,K R Layout",14 - The Oxford Kannada Shishu Vihar and Higher,64,53,44.8,26.6,23.4,31.2,18.8,60.9
+14,5th Cross,14 - The Oxford Kannada Shishu Vihar and Higher,16,11,48.9,6.2,50.0,18.8,25.0,31.2
+14,"6th,7th,8th,9th, 10th, 11th, 12th, Cross , K.R. Layout",14 - The Oxford Kannada Shishu Vihar and Higher,125,98,44.7,24.8,29.6,24.8,20.8,47.2
+14,"J.P.Nagar, Sarakki K.R. Layout.",14 - The Oxford Kannada Shishu Vihar and Higher,536,261,52.8,7.3,25.4,32.6,34.7,47.9
+14,"Puttenahalli , Main Road",14 - The Oxford Kannada Shishu Vihar and Higher,27,23,37.3,40.7,29.6,22.2,7.4,48.1
+15,1st Mainroad Ist Cross,"15 - SVIT Polytechnic, Room No-01",15,13,37.3,26.7,46.7,13.3,13.3,53.3
+15,1st Mainroad To 7Th Mainroad,"15 - SVIT Polytechnic, Room No-01",85,47,47.0,4.7,49.4,27.1,18.8,56.5
+15,"1st Mainroad, 33rd Main , Sarakkigarden.","15 - SVIT Polytechnic, Room No-01",34,29,41.1,26.5,35.3,29.4,8.8,41.2
+15,"2nd Cross,","15 - SVIT Polytechnic, Room No-01",14,9,37.4,50.0,21.4,14.3,14.3,57.1
+15,33Rd Mainroad,"15 - SVIT Polytechnic, Room No-01",108,74,40.2,26.9,33.3,30.6,9.3,49.1
+15,"3rd Cross,","15 - SVIT Polytechnic, Room No-01",10,5,44.1,20.0,40.0,20.0,20.0,60.0
+15,"4th Cross,","15 - SVIT Polytechnic, Room No-01",39,21,42.6,23.1,33.3,35.9,7.7,43.6
+15,"5th Cross,","15 - SVIT Polytechnic, Room No-01",9,8,42.6,33.3,22.2,22.2,22.2,44.4
+15,6th Cross 33rd Mainroad,"15 - SVIT Polytechnic, Room No-01",33,25,38.6,24.2,48.5,21.2,6.1,54.5
+15,7th Cross.,"15 - SVIT Polytechnic, Room No-01",33,23,38.9,24.2,45.5,24.2,6.1,69.7
+15,J.P. Nagar 6th Stage.,"15 - SVIT Polytechnic, Room No-01",500,280,46.3,12.8,34.2,35.6,17.4,46.8
+16,J.P. Nagar 6th Stage.,"16 - SVIT Polytechnic, Room No-02",583,304,43.2,21.3,36.7,28.3,13.7,44.1
+16,sarakki garden part no. : 16,"16 - SVIT Polytechnic, Room No-02",231,157,40.4,27.3,35.1,28.1,9.5,44.6
+17,J.P. Nagar 6th Stage Farm Houses.,"17 - SVIT Polytechnic, Room No-03",679,391,46.2,16.6,29.3,36.2,17.8,48.7
+18,10th Cross,"18 - SVIT Polytechnic, Room No-04",24,13,45.2,16.7,29.2,33.3,20.8,37.5
+18,12th Cross,"18 - SVIT Polytechnic, Room No-04",23,11,48.1,8.7,26.1,47.8,17.4,52.2
+18,13th Cross,"18 - SVIT Polytechnic, Room No-04",22,12,45.5,13.6,31.8,40.9,13.6,54.5
+18,14th Cross,"18 - SVIT Polytechnic, Room No-04",39,18,48.5,10.3,28.2,35.9,25.6,51.3
+18,15th cross part no. : 18,"18 - SVIT Polytechnic, Room No-04",20,7,49.8,0.0,35.0,40.0,25.0,60.0
+18,17th cross part no. : 18,"18 - SVIT Polytechnic, Room No-04",54,36,41.9,22.2,31.5,35.2,11.1,40.7
+18,1st Cross,"18 - SVIT Polytechnic, Room No-04",12,9,45.8,8.3,41.7,41.7,8.3,58.3
+18,2nd Cross,"18 - SVIT Polytechnic, Room No-04",23,16,39.3,26.1,43.5,17.4,13.0,60.9
+18,35th main part no. : 18,"18 - SVIT Polytechnic, Room No-04",101,80,39.3,19.8,52.5,16.8,10.9,43.6
+18,"35th main road, 4th corss part no. : 18","18 - SVIT Polytechnic, Room No-04",36,34,39.9,36.1,33.3,11.1,19.4,52.8
+18,3rd Cross,"18 - SVIT Polytechnic, Room No-04",18,10,47.4,0.0,50.0,38.9,11.1,50.0
+18,4th Cross,"18 - SVIT Polytechnic, Room No-04",28,15,48.3,10.7,46.4,17.9,25.0,32.1
+18,5th cross part no. : 18,"18 - SVIT Polytechnic, Room No-04",8,7,48.1,0.0,37.5,50.0,12.5,50.0
+18,6th Cross,"18 - SVIT Polytechnic, Room No-04",9,8,35.2,44.4,33.3,22.2,0.0,44.4
+18,7th Cross,"18 - SVIT Polytechnic, Room No-04",27,19,45.7,18.5,22.2,44.4,14.8,37.0
+18,8th Cross,"18 - SVIT Polytechnic, Room No-04",31,14,51.0,6.5,22.6,48.4,22.6,61.3
+18,9th Cross,"18 - SVIT Polytechnic, Room No-04",14,9,45.1,0.0,42.9,57.1,0.0,64.3
+18,J.P. Nagar 6th Stage Farm Houses.,"18 - SVIT Polytechnic, Room No-04",216,135,43.4,17.6,41.2,24.5,16.7,44.0
+19,36th Mainraod,19 - SVIT POLYTECHNIC ROOM NO -05 3RD CROSS K,22,17,40.0,36.4,27.3,22.7,13.6,63.6
+19,37th B Cross,19 - SVIT POLYTECHNIC ROOM NO -05 3RD CROSS K,13,12,49.9,7.7,30.8,30.8,30.8,61.5
+19,37th Mainroad,19 - SVIT POLYTECHNIC ROOM NO -05 3RD CROSS K,18,14,41.9,16.7,50.0,22.2,11.1,33.3
+19,38th Mainroad,19 - SVIT POLYTECHNIC ROOM NO -05 3RD CROSS K,149,96,44.5,16.1,40.9,24.2,18.8,48.3
+19,"J.P.Nagar 6th Stage, Farm Houses And Gulabi.",19 - SVIT POLYTECHNIC ROOM NO -05 3RD CROSS K,430,240,50.0,10.5,26.3,36.0,27.2,47.7
+19,K.R.Layout,19 - SVIT POLYTECHNIC ROOM NO -05 3RD CROSS K,7,7,40.7,14.3,57.1,14.3,14.3,57.1
+19,Mahathmagandhi Layout,19 - SVIT POLYTECHNIC ROOM NO -05 3RD CROSS K,9,8,40.0,22.2,44.4,33.3,0.0,55.6
+19,"Sai Samaran, Rose Garden, Annappa Reddy Layout",19 - SVIT POLYTECHNIC ROOM NO -05 3RD CROSS K,32,23,48.8,12.5,28.1,28.1,31.2,50.0
+19,overseas electors part no. : 19,19 - SVIT POLYTECHNIC ROOM NO -05 3RD CROSS K,9,9,43.1,33.3,22.2,33.3,11.1,33.3
+19,rose garden part no. : 19,19 - SVIT POLYTECHNIC ROOM NO -05 3RD CROSS K,45,36,45.9,20.0,28.9,26.7,24.4,53.3
+19,sarakki garden- part no. : 19,19 - SVIT POLYTECHNIC ROOM NO -05 3RD CROSS K,20,17,44.1,15.0,35.0,35.0,15.0,60.0
+20,sarakki agrahara. part no. : 20,20 - NARAYANA E TECNO SCHOOL 40/1 JP NAGAR,851,474,45.1,14.6,37.7,30.2,17.5,50.8
+21,"13th main 17th ""b"" cross",21 - NARAYANA E TECNO SCHOOL 40/1 JP NAGAR,152,112,46.3,15.1,30.9,33.6,20.4,48.0
+21,Hasthi Apartment 14th Mainroad,21 - NARAYANA E TECNO SCHOOL 40/1 JP NAGAR,23,19,48.5,8.7,34.8,30.4,26.1,39.1
+21,Krishnavilla Apartment J. P. Nagar 24th Main,21 - NARAYANA E TECNO SCHOOL 40/1 JP NAGAR,222,139,47.6,10.4,31.1,39.2,19.4,51.8
+21,Madhura Suraksha J. P. Nagar 12th Main,21 - NARAYANA E TECNO SCHOOL 40/1 JP NAGAR,41,35,45.3,14.6,31.7,36.6,17.1,48.8
+21,raghavendra residency part no. : 21,21 - NARAYANA E TECNO SCHOOL 40/1 JP NAGAR,18,15,48.6,22.2,22.2,27.8,27.8,66.7
+21,sarakki agrahara. part no. : 21,21 - NARAYANA E TECNO SCHOOL 40/1 JP NAGAR,377,256,42.6,25.2,34.2,23.6,17.0,47.7
+22,15th Main Rose Garden,22 - NARAYANA E TECNO SCHOOL 40/1 JP NAGAR,65,55,44.4,30.8,20.0,24.6,24.6,47.7
+22,Hasthi Apartments 14th Mainroad,22 - NARAYANA E TECNO SCHOOL 40/1 JP NAGAR,6,6,40.8,16.7,50.0,33.3,0.0,33.3
+22,"Munavar Layout ,Nanjundeshwara Layout",22 - NARAYANA E TECNO SCHOOL 40/1 JP NAGAR,110,68,46.5,15.5,27.3,35.5,21.8,48.2
+22,Munawar layout,22 - NARAYANA E TECNO SCHOOL 40/1 JP NAGAR,14,12,39.2,28.6,42.9,14.3,14.3,42.9
+22,Narasimhaiah Garden 18th Mainroad,22 - NARAYANA E TECNO SCHOOL 40/1 JP NAGAR,430,232,47.3,9.5,39.5,27.2,23.7,49.5
+22,Rose Garden Road,22 - NARAYANA E TECNO SCHOOL 40/1 JP NAGAR,21,17,42.2,23.8,33.3,28.6,14.3,52.4
+22,oyasis residency part no. : 22,22 - NARAYANA E TECNO SCHOOL 40/1 JP NAGAR,43,27,52.5,7.0,18.6,34.9,39.5,46.5
+22,sai madhura residency 1 г part no. : 22,22 - NARAYANA E TECNO SCHOOL 40/1 JP NAGAR,10,8,57.9,0.0,10.0,50.0,40.0,30.0
+22,sarakki agrahara. part no. : 22,22 - NARAYANA E TECNO SCHOOL 40/1 JP NAGAR,197,148,48.8,15.2,21.3,37.1,26.4,46.7
+22,shaswathi apartment part no. : 22,22 - NARAYANA E TECNO SCHOOL 40/1 JP NAGAR,18,16,46.7,11.1,50.0,16.7,22.2,44.4
+23,Muniswamy Layout J. P. Nagar,23 - GOVERNMENT LOWER PRIMARY SCHOOL,74,64,37.2,35.1,39.2,17.6,8.1,41.9
+23,sarakki agrahara. part no. : 23,23 - GOVERNMENT LOWER PRIMARY SCHOOL,636,384,47.2,17.1,29.1,28.9,24.8,49.8
+23,sarakki kere. 5th stage part no. : 23,23 - GOVERNMENT LOWER PRIMARY SCHOOL,68,59,45.8,25.0,30.9,16.2,27.9,61.8
+23,shravanthi garden apartment part no. : 23,23 - GOVERNMENT LOWER PRIMARY SCHOOL,19,18,44.2,31.6,31.6,10.5,26.3,68.4
+23,south sparta apartment part no. : 23,23 - GOVERNMENT LOWER PRIMARY SCHOOL,24,23,51.3,12.5,20.8,29.2,37.5,58.3
+23,v j r apartment part no. : 23,23 - GOVERNMENT LOWER PRIMARY SCHOOL,10,9,40.6,20.0,50.0,10.0,20.0,60.0
+24,"Rupena Agrahara Ooru Channappa Reddy Layout,",24 - Sri Sadguru Sai Baba Kannada Higher Primary,567,391,42.6,22.6,35.1,28.4,13.9,46.9
+24,ansal apartments- part no. : 24,24 - Sri Sadguru Sai Baba Kannada Higher Primary,71,53,53.7,7.0,19.7,38.0,35.2,52.1
+25,"Rupena Agrahara Ooru Channappa Reddy Layout,",25 - Sri Sadguru Sai Baba Kannada Higher Primary,472,397,39.0,32.6,35.4,23.1,8.9,47.0
+26,Vinayaka Nagar,"26 - Lawrence High School, Room No.1",394,226,48.7,6.3,41.4,27.7,24.6,47.5
+26,"h s r, m c h s 6th sector- 7 г- part no. : 26","26 - Lawrence High School, Room No.1",511,347,48.3,14.3,33.9,20.0,31.9,47.7
+27,H S R Layout 1st Main Road,"27 - Lawrence High School, Room No.2",273,158,51.6,9.5,29.3,24.5,36.6,47.3
+27,"farneel garden apartments, h s r 6th sector 7 г- part no. : 27","27 - Lawrence High School, Room No.2",377,272,47.7,11.1,37.1,27.1,24.7,45.6
+27,sector 6 part no. : 27,"27 - Lawrence High School, Room No.2",225,165,46.0,19.1,31.1,28.0,21.8,53.8
+28,Basappareddy Layout,28 - Sri Sadguru Sai Baba Kannada Higher Primary,132,79,51.7,3.8,27.3,40.2,28.8,51.5
+28,Front of Babureddy House Street Layout.,28 - Sri Sadguru Sai Baba Kannada Higher Primary,273,178,48.0,8.1,37.0,33.0,22.0,53.1
+28,basappa loyout part no. : 28,28 - Sri Sadguru Sai Baba Kannada Higher Primary,37,35,41.0,27.0,32.4,24.3,16.2,51.4
+28,golden heritage appartment part no. : 28,28 - Sri Sadguru Sai Baba Kannada Higher Primary,46,34,41.5,17.4,47.8,28.3,6.5,47.8
+28,law cyascade appartment 7 г- part no. : 28,28 - Sri Sadguru Sai Baba Kannada Higher Primary,15,11,52.5,13.3,20.0,40.0,26.7,40.0
+28,law heritage appartment part no. : 28,28 - Sri Sadguru Sai Baba Kannada Higher Primary,14,12,44.7,14.3,28.6,42.9,14.3,42.9
+28,ramaiah loyout part no. : 28,28 - Sri Sadguru Sai Baba Kannada Higher Primary,22,19,44.6,9.1,36.4,50.0,4.5,50.0
+28,rupan comparts apartment part no. : 28,28 - Sri Sadguru Sai Baba Kannada Higher Primary,18,14,48.5,5.6,27.8,55.6,11.1,55.6
+29,Roopena Agrahara Right Side Of Babureddy House Road to,29 - Sri Sadguru Sai Baba High School (Round Table,444,311,43.5,18.9,38.7,27.0,15.3,50.0
+30,Roopena Agrahara Chikkathayappa Reddy Layout.,30 - Sri Sadguru Sai Baba High School (Round Table,507,365,43.7,15.2,43.2,28.0,13.6,49.3
+31,Roopena Agrahara N G R Layout Gulbarga Colony Houses,31 - Sri Sadguru Sai Baba High School (Round Table,581,380,40.4,25.8,37.7,26.5,10.0,45.1
+32,Gulbarga Colony,32 - Sri Sadguru Sai Baba High School (Round Table,112,73,46.7,9.8,33.9,39.3,17.0,39.3
+32,Roopena Agrahara N G R Layout Gulbarga Colony Houses,32 - Sri Sadguru Sai Baba High School (Round Table,342,263,41.1,21.6,44.4,23.1,10.8,47.1
+33,agara gramathan. part no. : 33,33 - KARNATAKA PUBLIC SCHOOL Room No 1,525,324,43.9,16.8,39.0,29.7,14.5,46.3
+34,agara gramathan. part no. : 34,"34 - KARNATAKA PUBLIC SCHOOL,Room NO 2",488,284,44.9,17.2,29.1,38.3,15.4,49.0
+35,agara gramathan. part no. : 35,35 - KARNATAKA PUBLIC SCHOOL Room No 3,408,253,44.3,15.9,37.0,33.6,13.5,49.3
+36,agara gramathan. part no. : 36,36 - KARNATAKA PUBLIC SCHOOL Room No 4,446,276,44.6,13.0,39.5,30.9,16.6,45.7
+37,agara gramathan. part no. : 37,37 - KARNATAKA PUBLIC SCHOOL Room No 5,226,187,37.6,37.2,35.8,17.7,9.3,49.1
+37,agara village- part no. : 37,37 - KARNATAKA PUBLIC SCHOOL Room No 5,189,128,45.1,13.8,38.1,33.3,14.8,47.1
+38,"Agara -Free Site And 3Rd Cross To 7th Cross, H.S.R, Layout.","38 - KARNATAKA PUBLIC SCHOOL, Room No 6",322,224,47.8,13.0,35.1,28.9,23.0,50.9
+39,"Agara -Free Site And 3Rd Cross To 7th Cross, H.S.R, Layout.",39 - KARNATAKA PUBLIC SCHOOL Room No 7,411,217,46.0,10.0,39.7,33.3,17.0,49.6
+40,"8th Cross To 13th Cross, H.S.R, Ith sector.",40 - KARNATAKA PUBLIC SCHOOL Room No 8,545,338,48.7,10.5,29.9,38.2,21.5,48.6
+41,H S R Layout Sectar-1.,"41 - Cambridge Public School, Room No 1",326,222,49.4,14.1,25.2,32.8,27.9,47.9
+42,manthri sarovara aapartments part no. : 42,"42 - Cambridge Public School,Room No 2",554,350,51.6,7.9,26.4,37.0,28.7,51.6
+43,H.S.R. Layout Sector - 4,43 - Gnan Srishti School Of Excellence Room No 01,555,312,48.7,13.3,30.5,27.9,28.3,50.3
+44,H.S.R. Layout Sector - 4,44 - Gnan Srishti School Of Excellence Room No 02,553,292,50.0,13.6,27.1,29.1,30.2,45.9
+45,0man topaz apartment part no. : 45,"45 - Cambridge Public School, Room No 3",14,7,54.1,14.3,7.1,42.9,35.7,50.0
+45,Agara grama And H. S.R. Layout.,"45 - Cambridge Public School, Room No 3",393,266,50.9,7.1,25.7,37.2,30.0,47.1
+45,impiriel residency apartment 1 г part no. : 45,"45 - Cambridge Public School, Room No 3",8,8,47.9,12.5,12.5,62.5,12.5,50.0
+45,shobha apartment part no. : 45,"45 - Cambridge Public School, Room No 3",35,27,52.5,25.7,11.4,22.9,40.0,42.9
+46,Bosappa Layout And Mariswamy Layout Agara,"46 - Cambridge Public School,Room No 4",346,227,49.3,4.9,34.7,38.4,22.0,50.6
+47,"10.11.11th A and 11th B Cross HSR Layout, Sector-1.","47 - Cambridge Public School,Room No 5",18,18,39.1,33.3,33.3,22.2,11.1,33.3
+47,13TH CROSS HSR LAYOUT SECTOR-1 LEFTSIDE,"47 - Cambridge Public School,Room No 5",10,7,49.8,20.0,20.0,20.0,40.0,50.0
+47,24 th main HSR layout 1 sector left side.,"47 - Cambridge Public School,Room No 5",24,23,31.9,45.8,41.7,8.3,4.2,37.5
+47,25TH AND 26TH MAIN ROAD HSR LAYOUT SECTOR-1,"47 - Cambridge Public School,Room No 5",38,36,36.8,44.7,34.2,5.3,15.8,50.0
+47,27 th main HSR layout 1 sector left side,"47 - Cambridge Public School,Room No 5",40,36,37.8,27.5,47.5,17.5,7.5,50.0
+47,7.8 AND 9TH A CROSS HSR LAYOUT SECTOR-1,"47 - Cambridge Public School,Room No 5",27,26,44.5,33.3,22.2,11.1,33.3,40.7
+47,"8th Cross 17th Cross H S R Layout, Sector-1.","47 - Cambridge Public School,Room No 5",521,290,51.8,7.9,29.9,28.6,33.6,50.5
+48,.13th cross left side HSR Layout sector-1.,"48 - Cambridge Public School,Room No 6",32,31,41.9,28.1,28.1,25.0,18.8,46.9
+48,14.14A.14B Cross HSR Layout Sector-1 Left Side.,"48 - Cambridge Public School,Room No 6",32,27,40.2,37.5,25.0,25.0,12.5,40.6
+48,15.15A.15B.15C And 16th CRoss HSR Layout Sector-1.,"48 - Cambridge Public School,Room No 6",42,33,40.5,31.0,28.6,23.8,16.7,54.8
+48,17TH CROSS HSR LAYOUT SECTOR-1 LEFTSIDE,"48 - Cambridge Public School,Room No 6",31,29,32.6,48.4,32.3,16.1,3.2,58.1
+48,19th Main HSR layout Sector-1 Leftside.,"48 - Cambridge Public School,Room No 6",25,22,46.4,20.0,28.0,36.0,16.0,44.0
+48,24TH MAIN ROAD LEFTSIDE HSR LAYOUT SECTOR-1,"48 - Cambridge Public School,Room No 6",69,57,43.4,27.5,30.4,18.8,23.2,55.1
+48,8th Cross 17th Cross H S R Layout Sector-1.,"48 - Cambridge Public School,Room No 6",665,368,51.3,9.0,30.7,28.9,31.4,52.6
+49,"10.10A.11.11 A.11B And 12th Cross HSR Layout, Sector-1.",49 - GOVT PU COLLEGE ROOM.NO-01,43,39,41.1,34.9,27.9,18.6,18.6,37.2
+49,13TH CROSS HSR LAYOUT SECTOR-1 LEFTSIDE,49 - GOVT PU COLLEGE ROOM.NO-01,60,46,43.0,30.0,26.7,21.7,21.7,48.3
+49,27 th main HSR layout 1 sector left side.,49 - GOVT PU COLLEGE ROOM.NO-01,68,63,40.6,32.4,30.9,23.5,13.2,60.3
+49,31 St main Military Compound Line HSR Layout Sector-1.,49 - GOVT PU COLLEGE ROOM.NO-01,61,58,37.5,39.3,24.6,27.9,8.2,49.2
+49,5.6.7.8.9th Cross HSR Layout Sector-1.,49 - GOVT PU COLLEGE ROOM.NO-01,39,35,40.9,30.8,28.2,30.8,10.3,28.2
+49,"Agara, H.S.R. Layout,3rd Cross To 13th Gross, Sector-1.",49 - GOVT PU COLLEGE ROOM.NO-01,485,257,51.4,13.4,23.5,32.0,31.1,48.7
+49,meenakshi apartments part no. : 49,49 - GOVT PU COLLEGE ROOM.NO-01,105,86,45.1,17.1,29.5,39.0,14.3,51.4
+50,13TH MAIN ROAD HSR LAYOUT SECTOR-1 LEFTSIDE,"50 - GOVT PU COLLEGE,ROOM.NO-02",24,22,44.2,20.8,37.5,12.5,29.2,58.3
+50,19th Main HSR layout Sector-1 Leftside.,"50 - GOVT PU COLLEGE,ROOM.NO-02",27,25,39.0,44.4,22.2,11.1,22.2,33.3
+50,20.21.21A.21B.22A.22B.22C.22D Main road HSR Layout,"50 - GOVT PU COLLEGE,ROOM.NO-02",134,117,40.3,34.3,29.1,21.6,14.9,44.0
+50,24TH MAIN ROAD LEFTSIDE HSR LAYOUT SECTOR-1,"50 - GOVT PU COLLEGE,ROOM.NO-02",32,30,40.9,25.0,37.5,21.9,15.6,46.9
+50,9TH CROSS HSR LAYOUT SECTOR-1 LEFTSIDE,"50 - GOVT PU COLLEGE,ROOM.NO-02",5,5,34.6,40.0,40.0,20.0,0.0,60.0
+50,"Agara, H.S.R. Layout,3rd Cross To 13th Gross, Sector-1.","50 - GOVT PU COLLEGE,ROOM.NO-02",334,202,50.2,10.8,27.2,33.2,28.7,48.5
+51,25.26.26A.26B.26C. th main Road HSR Layout Sector-1.,51 - MULTI PURPOSE HALL CPWD QUTRS 27TH MAIN,48,41,35.3,52.1,18.8,20.8,8.3,45.8
+51,"CPWD Qutraes HSR layout, Sector-1",51 - MULTI PURPOSE HALL CPWD QUTRS 27TH MAIN,403,289,46.6,14.4,33.5,29.0,23.1,49.1
+52,13TH CROSS HSR LAYOUT SECTOR-1 LEFTSIDE,52 - MULTI PURPOSE HALL CPWD QUTRS,5,5,35.8,20.0,80.0,0.0,0.0,60.0
+52,15th cross left side C P W D Quatras Opp HSR Layout sector,52 - MULTI PURPOSE HALL CPWD QUTRS,48,43,41.4,20.8,41.7,27.1,10.4,52.1
+52,"16th Cross NIFT College Road, HSR layout, Sector-1.",52 - MULTI PURPOSE HALL CPWD QUTRS,39,38,40.5,23.1,38.5,33.3,5.1,59.0
+52,17TH CROSS HSR LAYOUT SECTOR-1 LEFTSIDE,52 - MULTI PURPOSE HALL CPWD QUTRS,8,8,33.0,25.0,62.5,12.5,0.0,62.5
+52,24TH MAIN ROAD LEFTSIDE HSR LAYOUT SECTOR-1,52 - MULTI PURPOSE HALL CPWD QUTRS,12,12,33.5,58.3,25.0,8.3,8.3,66.7
+52,27th Main HSR Layout Sector-1.,52 - MULTI PURPOSE HALL CPWD QUTRS,26,24,39.1,19.2,46.2,34.6,0.0,65.4
+52,c p w d qutraes part no. : 52,52 - MULTI PURPOSE HALL CPWD QUTRS,385,275,45.5,13.0,35.8,36.4,14.8,50.4
+53,ibbaluru. part no. : 53,"53 - Nammura Anganavadi Kendra, Samudhaya Bhavana",767,484,46.4,12.3,32.1,38.5,17.2,47.1
+54,ibbaluru. part no. : 54,"54 - Govt Higher Primary School, Room No-1",891,666,44.1,18.7,34.3,33.3,13.6,47.0
+55,suncity apartment ibblur- part no. : 55,"55 - Govt Higher Primary School, Room No-2",759,606,47.4,10.0,30.2,45.8,14.0,49.5
+56,ibbaluru. part no. : 56,"56 - Govt Higher Primary School, Room No-3",869,678,45.3,17.0,28.4,39.9,14.6,51.1
+57,overseas electors part no. : 57,"57 - Govt Higher Primary School, Room No-4",5,5,35.0,40.0,40.0,20.0,0.0,40.0
+57,suncity apartment ibblur part no. : 57,"57 - Govt Higher Primary School, Room No-4",901,686,46.5,14.8,25.5,45.6,14.1,48.6
+58,parangi palya gramatana- 7 г- part no. : 58,58 - Govt Model Higher Primary School Parangipalya,210,133,47.6,10.0,30.5,38.6,21.0,48.1
+58,parangipalya free houses- part no. : 58,58 - Govt Model Higher Primary School Parangipalya,497,322,45.9,12.9,38.4,30.8,17.9,50.3
+59,overseas electors part no. : 59,59 - Govt Model Higher Primary School Parangipalya,5,5,53.2,20.0,20.0,20.0,40.0,40.0
+59,parangi palya gramatana 7 г- part no. : 59,59 - Govt Model Higher Primary School Parangipalya,777,533,44.5,18.4,35.6,30.1,15.8,46.5
+60,"H S R 2nd Sector Parangi Palya, 24th Main Road Left Side",60 - Govt Model Higher Primary School Parangipalya,674,463,46.8,15.3,31.2,32.8,20.8,46.7
+60,"parangipalya, free houses. 1 г part no. : 60",60 - Govt Model Higher Primary School Parangipalya,81,69,41.5,30.9,25.9,32.1,11.1,43.2
+61,"24th Mainroad,Right Side of Parangipalya H.S.R. Layout 2nd",61 - Gnan Srishti School of Excellence Room No-03,727,512,48.6,12.8,25.3,40.4,21.5,47.7
+62,"24th Mainroad,Right Side of Parangipalya H.S.R. Layout 2nd",62 - Gnan Srishti School of Excellence Room No-04,440,301,44.7,22.3,30.9,27.0,19.8,49.8
+62,h s r 2nd sector part no. : 62,62 - Gnan Srishti School of Excellence Room No-04,418,331,43.5,22.0,30.4,33.7,13.9,49.3
+63,"24th Mainroad,Right Side of Parangipalya H.S.R. Layout 2nd",63 - Gnan Srishti School of Excellence Room No-05,736,457,50.2,9.0,26.4,39.4,25.3,46.6
+64,aiswarya eastwood part no. : 64,64 - Gnan Srishti School of Excellence Room No 06,17,15,51.6,17.6,17.6,29.4,35.3,41.2
+64,classic next apratments part no. : 64,64 - Gnan Srishti School of Excellence Room No 06,210,159,50.8,6.7,28.6,35.7,29.0,48.1
+64,east fare mount part no. : 64,64 - Gnan Srishti School of Excellence Room No 06,82,70,53.2,3.7,15.9,54.9,25.6,52.4
+64,hsr badavane part no. : 64,64 - Gnan Srishti School of Excellence Room No 06,231,168,47.5,14.7,27.7,37.7,19.9,52.8
+64,magan priwe apartment part no. : 64,64 - Gnan Srishti School of Excellence Room No 06,13,10,48.6,7.7,23.1,53.8,15.4,30.8
+64,monalisa apartment part no. : 64,64 - Gnan Srishti School of Excellence Room No 06,43,32,45.7,18.6,18.6,46.5,16.3,48.8
+64,parangipalya gramatana part no. : 64,64 - Gnan Srishti School of Excellence Room No 06,64,50,48.3,12.5,34.4,32.8,20.3,42.2
+65,Roopena Agrahara (N. G.R. Layout) Dinnemanegalu.,65 - REDDY JANA SANGHA HIGH SCHOOL Room No-,640,451,42.0,23.8,34.8,28.3,13.1,49.1
+66,Roopena Agrahara (N. G.R. Layout) Dinnemanegalu.,66 - REDDY JANA SANGHA HIGH SCHOOL Room No-,433,331,40.7,24.2,39.3,27.5,9.0,50.6
+67,Roopena Agrahara (N. G.R. Layout) Dinnemanegalu.,67 - REDDY JANA SANGHA HIGH SCHOOL Room No-,391,278,44.2,13.8,40.4,33.2,12.5,50.9
+68,Roopena Agrahara Dinne Houses (N.G.R.Layout).,68 - REDDY JANA SANGHA HIGH SCHOOL Room No-,392,255,44.7,13.3,38.0,35.7,13.0,50.0
+69,Roopena Agrahara Dinne Houses (N.G.R.Layout).,69 - REDDY JANA SANGHA HIGH SCHOOL Room No-,292,200,43.1,13.4,46.9,29.1,10.6,45.9
+70,"Roopena Agrahara, N.G.R. Layout, Dinnemanegalu,N.R.",70 - REDDY JANA SANGHA HIGH SCHOOL Room No-,390,302,41.5,24.6,33.8,31.0,10.5,45.6
+70,"RoopenaAgrahara, N.R.Layout",70 - REDDY JANA SANGHA HIGH SCHOOL Room No-,92,76,45.7,14.1,30.4,44.6,10.9,53.3
+71,"RoopenaAgrahara, N.R.Layout",71 - REDDY JANA SANGHA HIGH SCHOOL Room No-,456,264,42.7,18.2,39.9,31.6,10.3,48.9
+72,"RoopenaAgrahara, N.R.Layout",72 - REDDY JANA SANGHA HIGH SCHOOL Room No-,374,246,43.4,17.4,39.3,29.7,13.6,46.5
+73,j. P. Nagar Sarakkikere.,"73 - Royal School, 24th Main Road, J P Nagar 6th Phase",746,383,48.0,10.3,34.5,30.4,24.8,50.8
+74,17th Mainroad Shamanna Garden,"74 - Royal School, 24th Main Road, J P Nagar 6th Phase",48,36,46.8,14.6,35.4,22.9,27.1,56.2
+74,21st Main Road,"74 - Royal School, 24th Main Road, J P Nagar 6th Phase",77,59,45.7,13.0,37.7,29.9,19.5,49.4
+74,23rd Mainroad Shamanna Garden,"74 - Royal School, 24th Main Road, J P Nagar 6th Phase",55,37,50.4,18.2,27.3,16.4,38.2,50.9
+74,Ismail Saheeb Street,"74 - Royal School, 24th Main Road, J P Nagar 6th Phase",14,11,42.1,14.3,42.9,35.7,7.1,64.3
+74,Ramaswamy Layout,"74 - Royal School, 24th Main Road, J P Nagar 6th Phase",30,22,40.3,26.7,33.3,30.0,10.0,56.7
+74,"Shyamanna Garden, Ayodhya Nagara, Ramanna Road,","74 - Royal School, 24th Main Road, J P Nagar 6th Phase",394,227,46.2,14.0,37.3,26.6,22.1,50.3
+74,nagaraja garden part no. : 74,"74 - Royal School, 24th Main Road, J P Nagar 6th Phase",11,10,42.9,9.1,54.5,27.3,9.1,45.5
+74,padmashree presidency part no. : 74,"74 - Royal School, 24th Main Road, J P Nagar 6th Phase",23,13,45.6,8.7,47.8,26.1,17.4,39.1
+74,rohini residency part no. : 74,"74 - Royal School, 24th Main Road, J P Nagar 6th Phase",14,9,47.9,14.3,28.6,35.7,21.4,57.1
+74,sai avenue part no. : 74,"74 - Royal School, 24th Main Road, J P Nagar 6th Phase",22,15,48.1,4.5,22.7,68.2,4.5,59.1
+74,sai madura part no. : 74,"74 - Royal School, 24th Main Road, J P Nagar 6th Phase",20,8,50.8,10.0,30.0,30.0,30.0,50.0
+74,shamanna garden part no. : 74,"74 - Royal School, 24th Main Road, J P Nagar 6th Phase",123,97,41.1,30.1,31.7,22.8,15.4,50.4
+75,G. P. Nagar Sarakkikere.,"75 - Royal School, 24th Main Road, J P Nagar 6th Phase",815,441,47.3,14.2,31.4,30.1,24.3,50.3
+76,"20th Main Road,Kapila Road","76 - Royal School, 24th Main Road, J P Nagar 6th Phase",40,37,37.8,37.5,35.0,12.5,15.0,52.5
+76,"24th Mainroad Sarakki Kere, Shamanna Garden, Gopala","76 - Royal School, 24th Main Road, J P Nagar 6th Phase",116,91,42.8,30.2,26.7,25.0,18.1,46.6
+76,J. P. Nagar Sarakkikere.,"76 - Royal School, 24th Main Road, J P Nagar 6th Phase",615,383,46.5,14.6,34.1,29.8,21.5,49.8
+76,Kaveri Road S M S Garden 20 B Main,"76 - Royal School, 24th Main Road, J P Nagar 6th Phase",78,74,34.9,46.2,26.9,20.5,6.4,38.5
+77,Dorebangala 25th Mainroad,77 - CMS BUSINESS SCHOOL (JAIN UNIVERCITY),82,58,48.0,17.1,30.5,23.2,29.3,47.6
+77,Dorebangala 26th Mainroad,77 - CMS BUSINESS SCHOOL (JAIN UNIVERCITY),56,37,46.0,17.9,21.4,44.6,16.1,57.1
+77,"J.P. Nagar, Sarakki Kere, Sheshappa Garden, Putenahalli",77 - CMS BUSINESS SCHOOL (JAIN UNIVERCITY),766,388,45.5,17.6,32.5,30.5,19.3,48.4
+78,28th Mainroad,78 - CMS BUSINESS SCHOOL (JAIN UNIVERCITY),15,13,54.7,6.7,6.7,60.0,26.7,46.7
+78,30th Mainroad,78 - CMS BUSINESS SCHOOL (JAIN UNIVERCITY),10,9,38.1,40.0,20.0,40.0,0.0,70.0
+78,31st Cross,78 - CMS BUSINESS SCHOOL (JAIN UNIVERCITY),16,6,52.8,0.0,18.8,68.8,12.5,43.8
+78,32nd Mainroad,78 - CMS BUSINESS SCHOOL (JAIN UNIVERCITY),35,24,44.7,20.0,37.1,20.0,22.9,45.7
+78,Abbayyareddy Layout,78 - CMS BUSINESS SCHOOL (JAIN UNIVERCITY),35,29,39.8,28.6,37.1,22.9,11.4,37.1
+78,Annaiah Reddy Layout,78 - CMS BUSINESS SCHOOL (JAIN UNIVERCITY),23,21,42.7,30.4,39.1,13.0,17.4,69.6
+78,Ashtalakshmi Layout,78 - CMS BUSINESS SCHOOL (JAIN UNIVERCITY),240,173,42.9,20.4,36.2,30.4,12.9,50.8
+78,"Ashtalakshmi Layout, 1st Main Road",78 - CMS BUSINESS SCHOOL (JAIN UNIVERCITY),100,49,45.4,12.0,41.0,32.0,15.0,48.0
+78,"Ashtalakshmi Layout, 2nd Mainroad",78 - CMS BUSINESS SCHOOL (JAIN UNIVERCITY),91,46,46.2,5.5,50.5,23.1,20.9,52.7
+78,"Ashtalakshmi Layout, 3rd Mainroad",78 - CMS BUSINESS SCHOOL (JAIN UNIVERCITY),192,85,46.5,12.5,32.3,37.5,17.7,46.4
+78,"Astalakshmi Layout, 4th Mainroad",78 - CMS BUSINESS SCHOOL (JAIN UNIVERCITY),78,65,38.8,34.6,29.5,24.4,11.5,44.9
+78,"J. P Nagar, Sarakkikere.",78 - CMS BUSINESS SCHOOL (JAIN UNIVERCITY),124,71,39.6,31.5,32.3,27.4,8.9,48.4
+78,sarakkikere- part no. : 78,78 - CMS BUSINESS SCHOOL (JAIN UNIVERCITY),27,19,51.0,0.0,29.6,44.4,25.9,40.7
+79,27th Main Road Abbaiah Reddy Layout,79 - IMAGE ENGLISH SCHOOL J P NAGAR 6TH PHASE,13,11,33.6,46.2,38.5,7.7,7.7,61.5
+79,"27th Main, Abbaiah Reddy Layout.",79 - IMAGE ENGLISH SCHOOL J P NAGAR 6TH PHASE,33,27,43.0,33.3,18.2,27.3,21.2,45.5
+79,28th A Main Road Abbaiah Reddy Layout,79 - IMAGE ENGLISH SCHOOL J P NAGAR 6TH PHASE,20,19,38.7,25.0,50.0,15.0,10.0,35.0
+79,"28th A Main, Abbaiah Reddy Layout",79 - IMAGE ENGLISH SCHOOL J P NAGAR 6TH PHASE,17,13,45.5,29.4,29.4,11.8,29.4,47.1
+79,28th Main Road Abbaiah Reddy Layout,79 - IMAGE ENGLISH SCHOOL J P NAGAR 6TH PHASE,41,28,43.7,12.2,48.8,24.4,14.6,46.3
+79,"28th Main, Abbaiah Reddy Layout",79 - IMAGE ENGLISH SCHOOL J P NAGAR 6TH PHASE,19,12,54.2,0.0,36.8,26.3,36.8,63.2
+79,29th Main Road Abbaiah Reddy Layout,79 - IMAGE ENGLISH SCHOOL J P NAGAR 6TH PHASE,30,22,48.3,6.7,20.0,56.7,16.7,50.0
+79,"29th Main, Abbaiah Reddy Layout",79 - IMAGE ENGLISH SCHOOL J P NAGAR 6TH PHASE,13,9,47.2,7.7,38.5,30.8,23.1,46.2
+79,30th Main Road Abbaiah Reddy Layout,79 - IMAGE ENGLISH SCHOOL J P NAGAR 6TH PHASE,15,14,37.4,26.7,46.7,20.0,6.7,53.3
+79,"30th Main, Abbaiah Reddy Layout",79 - IMAGE ENGLISH SCHOOL J P NAGAR 6TH PHASE,15,12,47.1,6.7,33.3,46.7,13.3,46.7
+79,Abbaiah Reddy Layout,79 - IMAGE ENGLISH SCHOOL J P NAGAR 6TH PHASE,9,7,42.9,22.2,0.0,66.7,11.1,33.3
+79,"J. P Nagar, Sarakkikere.",79 - IMAGE ENGLISH SCHOOL J P NAGAR 6TH PHASE,470,238,48.2,7.0,32.1,40.9,20.0,54.9
+79,J.P.Nagar 6 th Phase,79 - IMAGE ENGLISH SCHOOL J P NAGAR 6TH PHASE,70,62,40.1,28.6,38.6,15.7,17.1,58.6
+79,Ramanna Road,79 - IMAGE ENGLISH SCHOOL J P NAGAR 6TH PHASE,20,18,45.4,30.0,20.0,25.0,25.0,55.0
+80,muniyappa garden. part no. : 80,"80 - Manasa Vidya Kendra, Sarakkakere,J P Nagar 6th",523,316,47.9,9.6,36.1,30.4,23.9,50.9
+81,24 th main road part no. : 81,"81 - Manasa Vidya Kendra, Sarakkakere,J P Nagar 6th",27,23,46.3,14.8,33.3,33.3,18.5,51.9
+81,24th Main Road,"81 - Manasa Vidya Kendra, Sarakkakere,J P Nagar 6th",24,17,46.2,20.8,33.3,16.7,29.2,58.3
+81,Annayareddy Layout,"81 - Manasa Vidya Kendra, Sarakkakere,J P Nagar 6th",92,71,46.1,18.5,32.6,26.1,22.8,41.3
+81,"Annayareddy Layout,27th Main","81 - Manasa Vidya Kendra, Sarakkakere,J P Nagar 6th",28,19,45.5,32.1,28.6,14.3,25.0,46.4
+81,"Murthappa Road,24th Main Road","81 - Manasa Vidya Kendra, Sarakkakere,J P Nagar 6th",10,9,39.2,40.0,20.0,20.0,20.0,60.0
+81,Rajalakshmi Apartments 2nd Main,"81 - Manasa Vidya Kendra, Sarakkakere,J P Nagar 6th",9,8,50.1,22.2,33.3,11.1,33.3,55.6
+81,Unnathi Sibidel Apats J P N Nagar,"81 - Manasa Vidya Kendra, Sarakkakere,J P Nagar 6th",29,23,45.7,13.8,51.7,10.3,24.1,48.3
+81,bindiya residenmi part no. : 81,"81 - Manasa Vidya Kendra, Sarakkakere,J P Nagar 6th",30,21,50.7,10.0,23.3,40.0,26.7,50.0
+81,m r suraksha apartments- 1 г part no. : 81,"81 - Manasa Vidya Kendra, Sarakkakere,J P Nagar 6th",6,6,38.2,50.0,16.7,16.7,16.7,33.3
+81,muniyappa garden. part no. : 81,"81 - Manasa Vidya Kendra, Sarakkakere,J P Nagar 6th",99,73,38.2,27.3,48.5,17.2,7.1,49.5
+81,murthappa garden- part no. : 81,"81 - Manasa Vidya Kendra, Sarakkakere,J P Nagar 6th",35,26,41.9,20.0,31.4,37.1,11.4,42.9
+81,raj japal apats part no. : 81,"81 - Manasa Vidya Kendra, Sarakkakere,J P Nagar 6th",11,10,45.6,18.2,27.3,36.4,18.2,45.5
+81,"raja lakshmi aportments, 2nd main road 7 г- part no. : 81","81 - Manasa Vidya Kendra, Sarakkakere,J P Nagar 6th",35,28,53.7,17.1,14.3,31.4,37.1,45.7
+81,sarakki kere- part no. : 81,"81 - Manasa Vidya Kendra, Sarakkakere,J P Nagar 6th",80,61,42.9,36.2,20.0,25.0,18.8,41.2
+82,"Barod Bank Colony,.",82 - NARAYANA PU COLLAGE J P NAGAR 7TH PHASE,699,437,48.5,13.6,29.8,29.0,27.6,49.1
+83,"Barod Bank Colony,.",83 - NARAYANA PU COLLAGE J P NAGAR 7TH PHASE,807,548,47.1,17.0,28.9,29.1,25.0,47.2
+84,"Barod Bank Colony,",84 - NARAYANA PU COLLAGE J P NAGAR 7TH PHASE,517,314,45.3,13.5,40.4,26.7,19.3,49.1
+85,brigade millenium- part no. : 85,85 - NARAYANA PU COLLAGE J P NAGAR 7TH PHASE,962,676,50.9,15.4,18.5,36.8,29.3,47.2
+85,puttenahalli village thana part no. : 85,85 - NARAYANA PU COLLAGE J P NAGAR 7TH PHASE,123,95,47.6,22.8,22.8,27.6,26.8,44.7
+86,puttenahalli village thana part no. : 86,"86 - Government Model Higher Primary School,Room",618,367,48.4,10.7,32.5,33.8,23.0,46.4
+87,puttenahalli palya. part no. : 87,"87 - Government Model Higher Primary School,Room",616,325,46.3,12.5,34.6,36.5,16.4,49.2
+88,puttenahalli. part no. : 88,"88 - Government Model Higher Primary School,Room",614,376,44.9,14.5,37.6,31.4,16.4,47.2
+89,Ramappa Layout,"89 - Government Model Higher Primary School,Room",172,83,47.8,11.6,33.1,33.1,22.1,48.8
+89,Sriram Layout,"89 - Government Model Higher Primary School,Room",28,16,52.9,17.9,10.7,32.1,39.3,39.3
+89,nandini lake apartment part no. : 89,"89 - Government Model Higher Primary School,Room",17,14,47.5,11.8,35.3,23.5,29.4,70.6
+89,puttenahalli. part no. : 89,"89 - Government Model Higher Primary School,Room",394,282,44.8,21.3,28.7,31.2,18.8,46.7
+89,roshan n klevu appertment part no. : 89,"89 - Government Model Higher Primary School,Room",15,11,46.5,20.0,26.7,26.7,26.7,26.7
+90,Ashtalakshmi Layout,"90 - Government Model Higher Primary School,Room",49,30,51.3,10.2,24.5,36.7,28.6,46.9
+90,puttena halli. part no. : 90,"90 - Government Model Higher Primary School,Room",503,324,41.7,24.3,39.2,22.5,14.1,48.1
+91,puttena halli. part no. : 91,"91 - Government Model Higher Primary School,Room",588,258,47.0,11.4,33.7,36.7,18.2,47.4
+92,puttena halli. part no. : 92,"92 - Government Model Higher Primary School,Room",617,350,46.7,7.6,40.0,34.5,17.8,50.2
+93,puttena halli. part no. : 93,93 - IMAGE ENGLISH SCHOOL 25TH MAIN ROAD,560,364,47.9,12.3,29.8,35.4,22.5,47.5
+94,aishwarya apartment part no. : 94,94 - IMAGE ENGLISH SCHOOL 25TH MAIN ROAD,184,111,44.7,18.5,37.0,25.0,19.6,50.5
+94,puttena halli. part no. : 94,94 - IMAGE ENGLISH SCHOOL 25TH MAIN ROAD,512,365,48.9,16.6,24.2,32.8,26.4,43.9
+94,shobha apartment part no. : 94,94 - IMAGE ENGLISH SCHOOL 25TH MAIN ROAD,64,60,42.4,31.2,23.4,31.2,14.1,48.4
+95,jaraganahalli. part no. : 95,"95 - JYOTHI KENDRIYA VIDYALAYA, Room No-01",632,343,45.9,15.0,33.5,30.2,21.2,49.2
+96,Jaraganahalli Munisanjeevappa Layout,"96 - JYOTHI KENDRIYA VIDYALAYA, Room No-02",210,133,50.7,9.5,20.0,43.8,26.7,52.9
+96,"Naidu Layout, G K M College Road, Srinivas Kalyana Mantapa","96 - JYOTHI KENDRIYA VIDYALAYA, Room No-02",107,76,42.6,23.4,30.8,29.9,15.9,43.0
+96,jaraganahalli. part no. : 96,"96 - JYOTHI KENDRIYA VIDYALAYA, Room No-02",217,124,46.4,6.9,43.3,33.2,16.6,46.5
+97,"Jaraganahalli, Jyothi Layout","97 - JYOTHI KENDRIYA VIDYALAYA, Room No-03",178,103,47.4,12.9,29.2,40.4,17.4,48.3
+97,"Jaraganahalli, Muni Sanjeevappa Layout","97 - JYOTHI KENDRIYA VIDYALAYA, Room No-03",24,17,47.8,8.3,33.3,41.7,16.7,45.8
+97,Yalachenahalli (Kanakapura Road Right Side).,"97 - JYOTHI KENDRIYA VIDYALAYA, Room No-03",344,177,50.2,5.8,30.2,35.2,28.8,46.5
+97,jaraganahalli part no. : 97,"97 - JYOTHI KENDRIYA VIDYALAYA, Room No-03",25,21,40.9,20.0,48.0,16.0,16.0,48.0
+98,Aravind Layout,98 - HOLY MOTHER ENGLISH SCHOOL VINAYAKA,32,24,42.8,21.9,28.1,37.5,12.5,53.1
+98,Pyaridais Colony Mutappa Compound,98 - HOLY MOTHER ENGLISH SCHOOL VINAYAKA,81,62,45.9,21.0,28.4,30.9,19.8,50.6
+98,Vinayaka nagar,98 - HOLY MOTHER ENGLISH SCHOOL VINAYAKA,53,42,42.5,35.8,18.9,26.4,18.9,54.7
+98,"puttenahalli,. part no. : 98",98 - HOLY MOTHER ENGLISH SCHOOL VINAYAKA,563,339,49.8,9.9,22.9,43.2,24.0,50.3
+99,Vinayaka nagar,99 - HOLY MOTHER ENGLISH SCHOOL VINAYAKA,262,150,55.9,4.2,16.4,39.7,39.7,48.1
+99,himagiri apartment part no. : 99,99 - HOLY MOTHER ENGLISH SCHOOL VINAYAKA,54,45,47.7,14.8,35.2,25.9,24.1,50.0
+99,overseas electors part no. : 99,99 - HOLY MOTHER ENGLISH SCHOOL VINAYAKA,6,6,39.7,33.3,16.7,33.3,16.7,33.3
+99,silver oka state part no. : 99,99 - HOLY MOTHER ENGLISH SCHOOL VINAYAKA,647,379,47.5,15.5,33.1,25.8,25.7,48.4
+100,"Puttana Halli, Vinayaka Nagar.",100 - NATIONAL ENGLISH MEDIUM SCHOOL,1062,641,42.5,22.8,34.9,27.1,15.2,50.1
+100,overseas electors part no. : 100,100 - NATIONAL ENGLISH MEDIUM SCHOOL,129,112,33.4,51.9,25.6,14.0,8.5,54.3
+101,"Puttana Halli, Vinayaka Nagar.",101 - NATIONAL ENGLISH MEDIUM SCHOOL,618,444,41.8,29.0,28.5,29.9,12.6,47.2
+101,Vinayaka Nagar,101 - NATIONAL ENGLISH MEDIUM SCHOOL,545,330,43.1,22.6,32.5,31.4,13.6,49.7
+102,"Puttahalli, Vinayaka Nagar.",102 - NATIONAL ENGLISH MEDIUM SCHOOL,1120,631,39.9,27.0,40.5,21.6,10.9,48.4
+103,Puttenahalli Vinayaka Nagar,103 - HOLY MOTHER ENGLISH SCHOOL VINAYAKA,8,8,36.0,37.5,25.0,37.5,0.0,25.0
+103,Vinayaka Nagar,103 - HOLY MOTHER ENGLISH SCHOOL VINAYAKA,674,337,44.3,14.4,39.9,30.6,15.1,50.3
+104,Gafur Layout,104 - HOLY MOTHER ENGLISH SCHOOL VINAYAKA,12,8,52.6,0.0,25.0,41.7,33.3,50.0
+104,Vinayaka Nagar,104 - HOLY MOTHER ENGLISH SCHOOL VINAYAKA,604,316,47.1,8.6,38.7,32.0,20.7,49.5
+104,arjun anthar apartment part no. : 104,104 - HOLY MOTHER ENGLISH SCHOOL VINAYAKA,27,19,45.5,25.9,18.5,33.3,22.2,59.3
+104,mahaveer kyastal- part no. : 104,104 - HOLY MOTHER ENGLISH SCHOOL VINAYAKA,16,14,46.8,6.2,43.8,31.2,18.8,43.8
+104,mahaveer woods a p m t- part no. : 104,104 - HOLY MOTHER ENGLISH SCHOOL VINAYAKA,42,32,51.7,11.9,16.7,42.9,28.6,45.2
+104,nagaraj garden- part no. : 104,104 - HOLY MOTHER ENGLISH SCHOOL VINAYAKA,26,17,49.3,11.5,26.9,38.5,23.1,53.8
+105,30th House Street Doresanipalya,105 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,63,44,43.1,7.9,54.0,27.0,11.1,39.7
+105,doresanipalya village part no. : 105,105 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,488,280,42.5,23.2,36.3,26.6,13.9,46.5
+106,30th House Street Doresanipalya,106 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,447,277,45.6,19.7,29.3,31.3,19.7,45.2
+106,oasis dew part no. : 106,106 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,7,5,48.4,14.3,28.6,42.9,14.3,57.1
+106,poineer pride apartment part no. : 106,106 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,16,14,44.9,12.5,31.2,50.0,6.2,50.0
+106,rekha farm part no. : 106,106 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,43,27,56.1,0.0,23.3,37.2,39.5,58.1
+107,Amruthappa Layout,107 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,32,15,39.5,18.8,46.9,28.1,6.2,53.1
+107,Anthappa Layout,107 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,52,39,43.0,19.2,34.6,34.6,11.5,48.1
+107,Joseph Layout,107 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,12,8,39.5,25.0,41.7,25.0,8.3,41.7
+107,doresanipalya. part no. : 107,107 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,402,241,47.2,10.4,34.3,35.6,19.7,47.5
+108,dollars apartment part no. : 108,108 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,26,23,45.3,19.2,30.8,34.6,15.4,65.4
+108,doresanipalya. part no. : 108,108 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,485,351,49.6,13.8,24.3,33.4,28.5,43.5
+108,dunhil garden apartment 1 г part no. : 108,108 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,47,35,51.2,19.1,14.9,25.5,40.4,48.9
+108,mantri elite apartment part no. : 108,108 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,77,55,49.3,19.5,18.2,33.8,28.6,45.5
+108,pride - apartment part no. : 108,108 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,152,122,47.9,15.8,29.6,31.6,23.0,48.7
+108,sri ranju apartment part no. : 108,108 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,5,4,45.2,20.0,20.0,40.0,20.0,60.0
+109,Sahyadri Layout,109 - OFFICE OF ASST ENGINEER ROOM NO-01,100,56,47.0,20.0,23.0,36.0,21.0,50.0
+109,Venkatadri Layout,109 - OFFICE OF ASST ENGINEER ROOM NO-01,50,42,43.3,28.0,26.0,26.0,20.0,44.0
+109,doresanipalya part no. : 109,109 - OFFICE OF ASST ENGINEER ROOM NO-01,535,348,52.8,11.6,20.9,29.5,37.9,47.9
+110,Aleemstreet,110 - OFFICE OF ASST ENGINEER ROOM NO-02,27,20,40.6,18.5,51.9,11.1,18.5,48.1
+110,Govinda Reddy Layout,110 - OFFICE OF ASST ENGINEER ROOM NO-02,67,37,51.6,6.0,29.9,35.8,28.4,44.8
+110,Panduranga nagara,110 - OFFICE OF ASST ENGINEER ROOM NO-02,457,282,51.3,10.1,22.8,36.8,30.4,49.2
+110,Venkatadri Layout,110 - OFFICE OF ASST ENGINEER ROOM NO-02,165,111,48.7,19.4,19.4,35.8,25.5,52.7
+110,lake houses part no. : 110,110 - OFFICE OF ASST ENGINEER ROOM NO-02,32,26,49.1,0.0,43.8,43.8,12.5,50.0
+111,K.R.Layout,111 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,85,55,46.1,16.5,32.9,30.6,20.0,48.2
+111,Panduranga Nagar,111 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,18,17,41.0,38.9,11.1,27.8,22.2,50.0
+111,R R Residency Panduranga Nagar,111 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,38,26,54.7,10.5,21.1,28.9,39.5,55.3
+111,Venkatadri Layout,111 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,102,85,40.0,31.4,38.2,20.6,9.8,53.9
+111,esteem park apartment part no. : 111,111 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,304,197,48.7,10.2,27.0,43.8,19.1,47.0
+111,grin sky blue forest apartment part no. : 111,111 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,41,32,51.2,9.8,19.5,46.3,24.4,56.1
+112,Panduranga Nagar,112 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,57,43,49.3,14.0,21.1,35.1,29.8,57.9
+112,Rose Garden Road,112 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,77,55,51.4,18.2,15.6,28.6,37.7,48.1
+112,Vinayakanagar Rose Garden Road,112 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,133,102,44.8,22.6,24.8,36.1,16.5,46.6
+112,atishi apartment part no. : 112,112 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,7,6,46.4,14.3,57.1,0.0,28.6,71.4
+112,green sky blue forest apartment part no. : 112,112 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,157,107,47.2,17.8,25.5,33.1,23.6,44.6
+112,harshitha meridian apartment part no. : 112,112 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,20,16,49.0,15.0,15.0,40.0,30.0,45.0
+112,mahaveer classic apartment part no. : 112,112 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,21,15,55.8,0.0,19.0,47.6,33.3,47.6
+112,palm grow apartment part no. : 112,112 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,10,7,54.6,0.0,20.0,50.0,30.0,50.0
+112,palmspring apartment part no. : 112,112 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,6,5,53.0,0.0,0.0,83.3,16.7,50.0
+112,pariwar petals apartment 1 г part no. : 112,112 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,40,25,54.8,7.5,20.0,42.5,30.0,55.0
+112,pioneer regency apartment part no. : 112,112 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,170,96,53.1,1.8,24.1,44.7,29.4,50.6
+112,primeland mark apartment part no. : 112,112 - ST PETER'S N T M ENGLISH MEDIUM SCHOOL,5,3,55.4,0.0,20.0,60.0,20.0,40.0
+113,"Bileka Halli,Vijaya Bank Colony.",113 - Dilip School D.c. Halli Main Road Room No-01,480,346,49.8,7.3,33.3,33.1,26.2,50.6
+114,"Bileka Halli,Vijaya Bank Colony.","114 - M.G School, For Excelance Room No-01",472,329,48.3,11.7,30.7,35.4,22.2,49.8
+115,"Bileka Halli,Vijaya Bank Colony.","115 - M.G School, For Exelance,Room No-2 Bilekahalli",481,332,48.9,7.7,37.4,30.4,24.5,50.9
+116,Nagappa Layout,"116 - M.G School, For Excelance, Room No-3,Bilekahalli",39,36,39.8,25.6,46.2,17.9,10.3,46.2
+116,Shakthi Ganapathi Temple Road,"116 - M.G School, For Excelance, Room No-3,Bilekahalli",63,52,37.1,39.7,31.7,19.0,9.5,49.2
+116,Someshwara Layout,"116 - M.G School, For Excelance, Room No-3,Bilekahalli",394,301,39.8,29.7,36.0,23.6,10.7,46.2
+116,bilekahalli. part no. : 116,"116 - M.G School, For Excelance, Room No-3,Bilekahalli",309,185,44.0,22.0,36.2,22.3,19.4,51.8
+117,Bilekahalli Rajanna Layout,"117 - M.G School, For Exelance, Room No-4 Billekahalli",46,32,43.3,30.4,15.2,43.5,10.9,52.2
+117,Shyanbag Layout,"117 - M.G School, For Exelance, Room No-4 Billekahalli",103,89,42.7,23.3,34.0,27.2,15.5,54.4
+117,Thanamma Layout,"117 - M.G School, For Exelance, Room No-4 Billekahalli",70,49,38.0,40.0,27.1,25.7,7.1,42.9
+117,kuttiyappa garden and abbanna vatara part no. : 117,"117 - M.G School, For Exelance, Room No-4 Billekahalli",55,32,45.1,12.7,38.2,32.7,16.4,50.9
+117,munichannappa garden fab ice cream part no. : 117,"117 - M.G School, For Exelance, Room No-4 Billekahalli",36,23,48.9,13.9,22.2,47.2,16.7,47.2
+117,near dilip school part no. : 117,"117 - M.G School, For Exelance, Room No-4 Billekahalli",24,14,48.8,12.5,25.0,37.5,25.0,37.5
+117,vinayaka water supply part no. : 117,"117 - M.G School, For Exelance, Room No-4 Billekahalli",232,128,42.2,20.7,39.7,27.6,12.1,50.4
+118,Vijaya Bank Colony,118 - Dilip School D.c. Halli main Road Room No-02,404,274,53.2,9.4,25.0,30.2,35.4,49.0
+118,bilekahalli. part no. : 118,118 - Dilip School D.c. Halli main Road Room No-02,246,188,46.8,6.1,43.9,30.1,19.9,51.2
+119,Vijaya Bank Colony,119 - Dilip School D.c. Halli main Road Room No-03,643,456,50.4,12.4,30.9,23.8,32.8,48.2
+120,Vijaya Bank Colony,120 - Dilip School D.c. Halli main Road Room No-04,405,265,52.4,7.4,29.9,26.7,36.0,52.1
+120,vijaya enklev part no. : 120,120 - Dilip School D.c. Halli main Road Room No-04,245,203,48.0,15.1,29.0,31.8,24.1,44.9
+121,"bileka halli ,i.i.m. institute. part no. : 121","121 - M G School of Excelence ,Room No-5 Billekahalli",373,244,51.1,9.1,26.0,35.1,29.8,50.1
+122,"bileka halli ,i.i.m. institute. part no. : 122",122 - Dilip School D.c. Halli main Road Room No-05,358,257,49.3,13.1,28.2,31.0,27.7,52.8
+123,Manthri Paradise B. G. Main Road Bilekahalli,123 - Dilip School D.c. Halli main Road Room No-06,334,247,52.5,13.8,15.9,37.7,32.6,45.8
+123,bilekahalli- part no. : 123,123 - Dilip School D.c. Halli main Road Room No-06,64,49,50.5,21.9,21.9,23.4,32.8,45.3
+124,"Raghavendra Colony,",124 - Dilip School D.c. Halli main Road Room No-07,69,49,52.2,4.3,30.4,31.9,33.3,46.4
+124,Sarvabhauma Nagara,124 - Dilip School D.c. Halli main Road Room No-07,629,375,46.1,17.6,32.1,30.4,19.9,47.9
+125,Vijaya Bank Layout,"125 - Teresa Public School Nursery,Primary & High",580,390,48.9,16.4,27.4,27.2,29.0,45.5
+126,Bilekahalli Free Houses Devara Chikkanahalli Road.,"126 - Gnanaprakasham Higher Primary School,, Room",541,327,46.7,14.2,30.5,34.8,20.5,49.2
+127,5Th Cross Bileka Halli Road Free Houses,"127 - Gnanaprakasham Higher Primary School,Room",122,79,48.4,4.9,29.5,49.2,16.4,44.3
+127,6Th Cross Bileka Halli Free Houses,"127 - Gnanaprakasham Higher Primary School,Room",62,48,38.3,32.3,40.3,17.7,9.7,46.8
+127,lakshmi complex part no. : 127,"127 - Gnanaprakasham Higher Primary School,Room",36,32,38.2,38.9,27.8,19.4,13.9,55.6
+127,"lakshmi complex, bilekanahalli, free houses part no. : 127","127 - Gnanaprakasham Higher Primary School,Room",328,224,42.3,15.2,45.7,28.7,10.4,49.7
+128,2nd cross road bilekahalli,"128 - Gnanaprakasham Higher Primary School,Room",74,53,45.0,18.9,28.4,35.1,17.6,56.8
+128,"3rd cross road bilekahalli,","128 - Gnanaprakasham Higher Primary School,Room",59,47,43.6,18.6,42.4,23.7,15.3,47.5
+128,"4Th Cross, Beleka Halli Free Houses","128 - Gnanaprakasham Higher Primary School,Room",318,214,41.2,23.9,39.0,26.4,10.7,47.8
+128,"Devara Chikkanahalli Road, Bileka Halli, Free Houses","128 - Gnanaprakasham Higher Primary School,Room",24,19,41.8,33.3,33.3,12.5,20.8,33.3
+129,Bilakenahalli Ranka Colony.,"129 - Orchid International School, Ranka",175,154,45.1,14.9,37.7,29.7,17.7,54.3
+129,"Bilekahalli, Ranka Colony A Block.","129 - Orchid International School, Ranka",481,348,49.2,12.7,29.9,31.2,26.2,52.4
+129,ranks villas part no. : 129,"129 - Orchid International School, Ranka",61,43,54.7,4.9,18.0,44.3,32.8,42.6
+130,Bilakenahalli Ranka Colony.,"130 - Orchid International School, Ranka",280,209,45.4,20.0,31.1,30.4,18.6,46.8
+130,Guruvaraja Layout,"130 - Orchid International School, Ranka",12,10,42.9,8.3,41.7,50.0,0.0,41.7
+130,Ranka B Block,"130 - Orchid International School, Ranka",36,28,50.7,5.6,27.8,44.4,22.2,41.7
+130,maneesh clasic part no. : 130,"130 - Orchid International School, Ranka",5,4,54.2,0.0,0.0,80.0,20.0,40.0
+130,manthri teras part no. : 130,"130 - Orchid International School, Ranka",87,66,54.8,8.0,18.4,37.9,35.6,48.3
+130,oyasis part no. : 130,"130 - Orchid International School, Ranka",13,11,50.8,7.7,30.8,23.1,38.5,46.2
+130,peviliyan part no. : 130,"130 - Orchid International School, Ranka",15,12,56.4,0.0,20.0,46.7,33.3,40.0
+130,raj pyaradis part no. : 130,"130 - Orchid International School, Ranka",125,101,48.7,16.8,25.6,28.0,29.6,49.6
+130,ranka 3b part no. : 130,"130 - Orchid International School, Ranka",12,10,61.2,0.0,25.0,33.3,41.7,16.7
+130,ranka b1 part no. : 130,"130 - Orchid International School, Ranka",28,22,53.8,3.6,25.0,35.7,35.7,53.6
+130,ranks villas part no. : 130,"130 - Orchid International School, Ranka",24,24,47.1,8.3,37.5,37.5,16.7,54.2
+130,surbhi part no. : 130,"130 - Orchid International School, Ranka",140,116,47.6,22.1,17.9,38.6,21.4,52.9
+131,Bilakenahalli Dollar Colony.,"131 - Orchid International School, Ranka",361,241,53.9,7.8,22.7,33.0,36.6,44.0
+131,rankavilla. part no. : 131,"131 - Orchid International School, Ranka",259,180,47.7,13.9,33.6,27.4,25.1,51.4
+132,4th Cross Dollar Colony.,"132 - Orchid International School, Ranka",70,51,51.4,14.3,21.4,32.9,31.4,57.1
+132,6th Cross Dollar Colony.,"132 - Orchid International School, Ranka",41,31,44.1,19.5,29.3,39.0,12.2,51.2
+132,Bilakenahalli Ranka Colony.,"132 - Orchid International School, Ranka",52,42,47.4,13.5,40.4,23.1,23.1,44.2
+132,Indira Colony Flores.,"132 - Orchid International School, Ranka",127,95,46.3,17.3,33.1,31.5,18.1,43.3
+132,"Munivenkatappa Layout, N.S. Palya.","132 - Orchid International School, Ranka",127,96,49.1,18.1,22.0,29.1,30.7,50.4
+132,east hights apartments part no. : 132,"132 - Orchid International School, Ranka",147,106,48.4,19.0,20.4,35.4,25.2,45.6
+132,mahaveer rejency apartment part no. : 132,"132 - Orchid International School, Ranka",5,4,54.0,0.0,40.0,0.0,60.0,60.0
+132,manthri teris part no. : 132,"132 - Orchid International School, Ranka",10,10,43.0,20.0,40.0,20.0,20.0,50.0
+132,raj paradise part no. : 132,"132 - Orchid International School, Ranka",138,111,43.5,19.6,32.6,34.1,13.8,50.7
+132,shravanthi residency part no. : 132,"132 - Orchid International School, Ranka",15,9,49.1,13.3,13.3,53.3,20.0,46.7
+133,bilekahalli. part no. : 133,"133 - Govt. Highery Primery School ,Room No-1 Beside",438,276,47.9,14.8,25.8,36.3,23.1,45.2
+134,bilekahalli. part no. : 134,"134 - Govt. Highery Primery School ,Room No-2 Beside",428,266,45.0,16.1,35.5,32.7,15.7,51.6
+135,Anugraha Layout,"135 - Govt. Highery Primery School ,Room No-3 Beside",320,249,42.9,20.6,36.9,29.1,13.4,50.3
+135,ankitha school part no. : 135,"135 - Govt. Highery Primery School ,Room No-3 Beside",6,6,36.8,33.3,33.3,33.3,0.0,50.0
+135,mahaveer praid apartments- part no. : 135,"135 - Govt. Highery Primery School ,Room No-3 Beside",298,179,44.8,13.8,43.0,26.5,16.8,47.7
+135,near omshakthi temple part no. : 135,"135 - Govt. Highery Primery School ,Room No-3 Beside",22,19,49.5,4.5,22.7,59.1,13.6,40.9
+135,niranjan apartment part no. : 135,"135 - Govt. Highery Primery School ,Room No-3 Beside",6,6,33.7,33.3,50.0,16.7,0.0,66.7
+135,ramanashree enklenv part no. : 135,"135 - Govt. Highery Primery School ,Room No-3 Beside",67,45,44.5,20.9,28.4,35.8,14.9,56.7
+136,thayappa garden bileka halli part no. : 136,136 - woman and Child Developemant centre(Balavadi,561,354,43.7,17.8,34.9,35.8,11.4,48.5
+137,thayappa garden bileka halli part no. : 137,137 - woman and Child Developemant centre (Tailoring,497,326,44.2,18.3,35.8,30.4,15.5,49.5
+138,bilekahalli. part no. : 138,"138 - shanthinikethan TRUST School, Someshwara",471,286,48.0,10.4,27.4,44.2,18.0,48.2
+139,1st Cross Ward Office Near,"139 - Shanthinikethana TRUST School, Someshara",45,39,40.3,31.1,35.6,15.6,17.8,53.3
+139,B. G. D. C. Road,"139 - Shanthinikethana TRUST School, Someshara",32,28,40.1,28.1,31.2,34.4,6.2,43.8
+139,Veerabhadra Temple Nadu Beedi Road,"139 - Shanthinikethana TRUST School, Someshara",60,51,37.4,36.7,38.3,15.0,10.0,48.3
+139,Venkataramanappa Street,"139 - Shanthinikethana TRUST School, Someshara",19,17,37.5,31.6,42.1,15.8,10.5,36.8
+139,bilekahalli. part no. : 139,"139 - Shanthinikethana TRUST School, Someshara",285,180,43.0,12.6,47.7,29.1,10.5,51.2
+139,near office part no. : 139,"139 - Shanthinikethana TRUST School, Someshara",35,21,45.7,8.6,40.0,34.3,17.1,45.7
+140,bilekahalli. part no. : 140,"140 - Govt. Higher Primary School, Room No-4",424,238,46.9,13.0,28.8,41.3,17.0,51.4
+141,bilekahalli. part no. : 141,"141 - Govt. Higher Primary School,Room No-5",394,241,44.2,12.9,36.8,40.6,9.6,48.5
+142,"SBI Layout, Kodichikkanahalli.","142 - Govt Higher Primary School, Room NO-1 New",665,457,44.3,14.9,39.4,29.8,15.9,50.4
+143,"Duyo Enclave Layout, Kodichikkanahalli","143 - Govt Higher Primary School, Room No-2 New",195,146,46.8,16.4,26.7,37.4,19.5,42.6
+143,"Sathya Sai Layout, Kodichikkanahalli","143 - Govt Higher Primary School, Room No-2 New",484,361,43.7,17.8,41.1,24.8,16.3,46.7
+144,"Anugraha Layout, Kodihalli","144 - Govt Higher Primary School, Room No-3 New",637,391,46.0,16.2,32.5,31.2,20.1,49.3
+144,Suprem Residency Layout,"144 - Govt Higher Primary School, Room No-3 New",196,119,51.5,5.6,32.1,36.2,26.0,56.6
+145,Kodichikkanahalli Main Road Left Side,"145 - Govt Higher Primary School, Room No-4 New",652,464,43.1,17.5,41.0,28.7,12.9,50.6
+146,Rotari Nagar Kodi Chikkanahalli.,"146 - Govt Higher Primary School,Room No-5 New",426,290,43.4,13.8,42.5,31.7,12.0,45.8
+147,Vakil Marina Layout Kodi Chikkanahalli,"147 - Govt Higher Primary School,Room No-6 New",349,258,42.0,21.5,37.5,30.7,10.3,45.6
+148,Nadamma Layout Kodi Chikkanahalli,148 - Bangalore water supply and sewerage board AEE,529,304,42.7,17.6,39.5,32.7,10.2,49.0
+148,overseas electors part no. : 148,148 - Bangalore water supply and sewerage board AEE,8,7,36.5,37.5,37.5,12.5,12.5,50.0
+149,janapriya apartment kodi chikkanahalli- part no. : 149,"149 - Govt Higher Primary School, New Buliding, ROOM",654,482,45.5,15.4,35.0,32.7,16.8,46.9
+150,Rotary Nagar 1st And 2nd Cross,"150 - Govt Higher Primary School, Room No-8 New",400,310,39.8,23.8,44.0,25.0,7.2,44.2
+151,Rotary Nagar 5th And 6th Cross,151 - Bangalore water supply and sewerage board AEE,73,51,44.8,9.6,49.3,28.8,12.3,46.6
+151,Rotray Nagar 3rd And 4th Cross,151 - Bangalore water supply and sewerage board AEE,336,247,40.4,20.2,44.9,27.1,7.7,46.1
+152,KODICHIKKNAHALLI MAIN ROAD,152 - Bangalore water supply and sewerage board AEE,36,31,40.7,30.6,30.6,30.6,8.3,44.4
+152,Rotary Nagar 7th And 8th Cross,152 - Bangalore water supply and sewerage board AEE,369,234,46.4,14.1,29.5,36.6,19.8,49.3
+152,kumba lake shore part no. : 152,152 - Bangalore water supply and sewerage board AEE,73,50,52.8,4.1,24.7,42.5,28.8,47.9
+152,lekh city part no. : 152,152 - Bangalore water supply and sewerage board AEE,63,54,40.0,31.7,34.9,20.6,12.7,46.0
+152,mahaveer square part no. : 152,152 - Bangalore water supply and sewerage board AEE,57,40,52.5,3.5,29.8,42.1,24.6,47.4
+153,Vijay Layout,153 - Bangalore water supply and sewerage board AEE,137,89,48.1,8.8,32.8,39.4,19.0,55.5
+153,kodi chikkanahalli part no. : 153,153 - Bangalore water supply and sewerage board AEE,298,240,41.1,24.2,38.6,25.8,11.4,49.3
+154,kodi chikkanahalli part no. : 154,154 - Bangalore water supply and sewerage board AEE,499,336,43.4,15.2,40.1,33.1,11.6,48.3
+155,Manjunath Layout.,155 - New Arvind memorial english School Room No 1,121,103,46.1,8.3,44.6,29.8,17.4,46.3
+155,Muneshwara Layout Kodi Chikkanahalli,155 - New Arvind memorial english School Room No 1,250,174,45.0,15.2,35.2,34.8,14.8,52.8
+155,"kodi chikkanahalli, goldan gate, apartment. part no. : 155",155 - New Arvind memorial english School Room No 1,547,436,44.5,16.8,39.1,26.7,17.4,50.5
+156,Manjunatha Layout,156 - New Arvind memorial english School Room No 2,171,131,48.1,6.4,38.6,35.1,19.9,47.4
+156,overseas electors part no. : 156,156 - New Arvind memorial english School Room No 2,9,9,42.8,11.1,55.6,33.3,0.0,77.8
+156,s B I Layout Kodi Chikkanahalli,156 - New Arvind memorial english School Room No 2,348,252,46.4,13.8,38.5,29.0,18.7,50.0
+156,s l v apartament part no. : 156,156 - New Arvind memorial english School Room No 2,134,113,42.6,9.7,61.9,17.2,11.2,51.5
+156,windsor prime corner part no. : 156,156 - New Arvind memorial english School Room No 2,95,78,46.1,8.4,34.7,46.3,10.5,55.8
+157,"Leftside Hosur Road, Free Houses,Bommanahalli.",157 - NAMMURA Goverment Model Kannada Higher,674,406,42.8,19.3,38.1,29.5,13.1,48.4
+158,"Madina Nagar,Bommanahalli.","158 - ilma International School, 112.113.10th cross",1157,834,39.5,27.2,40.1,23.4,9.2,49.5
+159,"Madina Nagar,Bommanahalli.","159 - ilma International School, 112.113.10th cross",871,672,37.8,33.8,39.2,20.6,6.5,47.6
+160,"Madina Nagar,Bommanahalli.","160 - lIma International School,112.113.10th cross",968,650,39.9,23.9,44.3,21.3,10.5,53.9
+161,"Rajeeva Gandhinagar, Bommanahalli.",161 - NAMMURA Goverment Model Kannada Higher,684,429,43.7,16.5,40.8,28.7,14.0,50.7
+162,B DA H S R Layout 23rd A Cross,162 - NAMMURA Goverment Model Kannada Higher,41,28,50.7,2.4,34.1,46.3,17.1,46.3
+162,B DAH S R Layout 22Nd Cross,162 - NAMMURA Goverment Model Kannada Higher,19,13,51.8,5.3,31.6,26.3,36.8,52.6
+162,H.S.R 7Th Stage Layout,162 - NAMMURA Goverment Model Kannada Higher,243,152,48.9,11.1,28.4,37.4,23.0,44.9
+162,"Rajeeva Gandhinagar, Bommanahalli.",162 - NAMMURA Goverment Model Kannada Higher,356,272,39.8,26.7,40.2,23.0,10.1,46.6
+163,"Nazeersab Layout, Bommanahalli.","163 - Lawrence High School, Room No.3",496,300,43.1,18.8,40.3,26.2,14.7,50.8
+164,Husuru road leftside H S R 7th stage,"164 - Lawrence High School, Room No.4",110,97,38.1,23.6,51.8,19.1,5.5,54.5
+164,"Nazeersab Layout, Bommanahalli.","164 - Lawrence High School, Room No.4",401,228,48.5,10.5,32.2,34.2,23.2,47.1
+165,"Leftside Hosur Road, H S R 7th Stage, Bommanahalli","165 - Lawrence High School, Room No.5",694,467,46.6,17.3,27.5,35.0,20.2,50.0
+166,"Leftside Hosur Road, H S R 7th Stage, Bommanahalli","166 - Lawrence High School, Room No.6",489,323,45.6,15.7,35.4,30.5,18.4,50.1
+167,"Gunduthopu,And Rajeev Gandhi Nagar.","167 - Lawrence High School, Room No.7",575,377,44.8,11.7,41.0,33.7,13.6,50.8
+168,"Gunduthopu,And Rajeev Gandhi Nagar.","168 - Lawrence High School, Room No.8",434,289,41.7,21.2,43.5,22.8,12.4,49.8
+168,"Muneshwara Layout,","168 - Lawrence High School, Room No.8",110,76,46.8,10.9,34.5,35.5,19.1,54.5
+168,"h s r 6th stage, part no. : 168","168 - Lawrence High School, Room No.8",142,81,54.0,2.1,33.8,27.5,36.6,47.9
+169,"gramatana, bommanahalli. part no. : 169","169 - Govt. Urdu Model Primary School, Room No 1,",533,353,41.4,22.1,40.5,26.8,10.5,51.8
+170,"gramatana, bommanahalli. part no. : 170","170 - Govt. Urdu Model Primary School,Room No 2,",449,332,39.8,24.3,41.4,27.4,6.9,47.7
+171,Banu Nursing Home Road,"171 - Govt. Urdu Model Primary School,Room No 3,",263,178,45.1,17.9,30.8,36.1,15.2,45.2
+171,Krishna Reddy Layout,"171 - Govt. Urdu Model Primary School,Room No 3,",149,100,43.7,22.1,30.2,31.5,16.1,48.3
+171,"alpine park apartment, bommanahalli- part no. : 171","171 - Govt. Urdu Model Primary School,Room No 3,",222,174,41.4,27.0,31.5,30.2,11.3,47.7
+171,overseas electors part no. : 171,"171 - Govt. Urdu Model Primary School,Room No 3,",5,5,39.0,20.0,40.0,40.0,0.0,40.0
+172,Viratanagar Road Right Side,172 - St.Joseph English Nursery Primary And High,221,156,43.9,11.8,41.2,37.1,10.0,49.8
+172,bommanahalli. part no. : 172,172 - St.Joseph English Nursery Primary And High,358,246,43.0,15.6,43.3,29.6,11.5,50.0
+173,. part no. : 173,"173 - Royal Convent High School Room No-1,",103,78,52.2,1.0,25.2,44.7,29.1,49.5
+173,"9th D Cross, Chinmaya College Road, Bommanahalli","173 - Royal Convent High School Room No-1,",276,196,44.1,14.9,41.3,27.5,16.3,50.7
+173,"Behind Masid Road, Bommanahali","173 - Royal Convent High School Room No-1,",202,153,40.5,28.7,35.1,23.3,12.9,53.5
+174,"Vajramuniyappa Layout, Bommanahalli.","174 - The Presidency English School,Room No-1 ,Virata",270,161,47.4,6.7,34.1,43.7,15.6,52.2
+174,"Vishweshwaraiah Road,Bommanahalli.","174 - The Presidency English School,Room No-1 ,Virata",427,331,39.4,32.8,32.1,25.1,10.1,48.7
+175,"Annapurneshwari Temple Road, Bommanahalli","175 - The Presidency English School,Room No-2 ,Virata",499,402,38.7,32.3,33.7,26.7,7.4,49.5
+175,Patel Shamannareddy Layout,"175 - The Presidency English School,Room No-2 ,Virata",217,149,47.1,10.1,30.4,45.2,14.3,44.2
+176,b h c s bommanahalli part no. : 176,176 - New Francis English High School .Room No-,613,421,44.9,13.4,38.2,34.7,13.7,47.8
+177,2nd Cross Channappa Reddy Layout,177 - New Francis English High School .Room No-,28,26,38.4,28.6,39.3,28.6,3.6,46.4
+177,Basappa Layout,177 - New Francis English High School .Room No-,83,68,40.2,30.1,32.5,30.1,7.2,49.4
+177,Channappa Reddy Layout,177 - New Francis English High School .Room No-,193,158,39.3,29.5,34.7,28.5,7.3,51.3
+177,N R Layout,177 - New Francis English High School .Room No-,49,46,40.5,32.7,32.7,24.5,10.2,36.7
+177,Patel Shamanna Reddy Layout,177 - New Francis English High School .Room No-,89,68,42.3,16.9,33.7,42.7,6.7,48.3
+178,Mangammana Palya Gramatana Venkateshwara Temple Road,178 - NEWTON PUBLIC SCHOOL ROOM NO-1,627,435,39.6,21.9,47.2,24.1,6.9,50.2
+179,"Ayisha Masjid Road, And Infront of Mangammana Palya",179 - NEWTON PUBLIC SCHOOL ROOM NO -2,145,111,43.1,18.6,36.6,32.4,12.4,49.7
+179,Mangammana Palya Gramatana Venkateshwara Temple Road,179 - NEWTON PUBLIC SCHOOL ROOM NO -2,224,199,36.4,42.4,31.2,20.1,6.2,49.1
+179,"mangammana palya, behind and infront of johnson school part no. : 179",179 - NEWTON PUBLIC SCHOOL ROOM NO -2,220,150,45.8,13.2,34.1,36.4,16.4,50.0
+180,"Ayisha Masjid Road, And Infront of Mangammana Palya",180 - NEWTON PUBLIC SCHOOL ROOM NO -3,615,456,40.7,25.4,38.7,24.9,11.1,49.9
+181,"Ayisha Masjid Road, And Infront of Mangammana Palya",181 - NEWTON PUBLIC SCHOOL ROOM NO - 4,539,409,38.7,28.6,40.4,24.3,6.7,51.2
+182,"Ayisha Masjid Road, And Infront of Mangammana Palya",182 - NEWTON PUBLIC SCHOOL ROOM NO -5,884,610,41.3,19.2,42.1,29.9,8.8,52.5
+183,"Infront of M S S School Road, Mangammana Palya.",183 - NEWTON PUBLIC SCHOOL ROOM NO -6,618,479,38.8,25.2,44.8,23.1,6.8,50.8
+184,Behind Mekka Masjid Road,184 - NEWTON PUBLIC SCHOOL ROOM NO -7,293,198,43.7,16.7,37.9,33.1,12.3,46.4
+184,"Infront of M S S School Road, Mangammana Palya.",184 - NEWTON PUBLIC SCHOOL ROOM NO -7,231,221,33.3,54.5,29.0,12.1,4.3,42.9
+184,"Munireddy Layout, And Behind Roads, Mangammana Palya",184 - NEWTON PUBLIC SCHOOL ROOM NO -7,121,87,45.0,15.7,33.9,35.5,14.9,61.2
+184,"Old Mangammana Palya Road, Mangammanapalya",184 - NEWTON PUBLIC SCHOOL ROOM NO -7,135,112,39.5,28.9,37.0,25.9,8.1,46.7
+185,Gangamma Devi Temple Road ( 3rd Main Road ) Left Side,185 - JOHNSON ENGLISH PRIMARY AND HIGH,854,634,39.0,30.1,37.5,23.8,8.7,49.5
+186,Gangamma Devi Temple Road ( 3rd Main Road ) Left Side,186 - JOHNSON ENGLISH PRIMARY AND HIGH,845,645,38.6,28.8,42.5,20.0,8.8,47.3
+187,Gangamma Devi Temple Road ( 3rd Main Road ) Left Side,187 - JOHNSON ENGLISH PRIMARY AND HIGH,666,519,39.8,27.6,37.7,26.4,8.3,48.8
+187,Urdu School Road And Behind Roads Mangammanapalya.,187 - JOHNSON ENGLISH PRIMARY AND HIGH,242,190,41.5,25.6,35.1,27.7,11.6,50.0
+188,1st Cross (Subash English School ) Mangammanapalya,188 - JOHNSON ENGLISH PRIMARY AND HIGH,777,497,42.9,18.0,40.3,29.1,12.6,49.0
+188,Behind Ayisha Masjid Roads Mangammana Palya,188 - JOHNSON ENGLISH PRIMARY AND HIGH,196,183,34.6,43.4,40.8,11.2,4.6,48.5
+189,Behind Ayisha Masjid Roads Mangammana Palya,189 - NEW CARMEL PUBLIC HIGHER SCHOOL ROOM,702,476,42.6,18.8,39.3,30.9,11.0,50.1
+190,Behind Ayisha Masjid Roads Mangammana Palya,190 - NEW CARMEL PUBLIC HIGHER SCHOOL ROOM,445,321,37.8,29.4,43.8,19.1,7.6,50.1
+190,Narasiraju House Road Mangammanapalya,190 - NEW CARMEL PUBLIC HIGHER SCHOOL ROOM,43,31,46.9,9.3,32.6,44.2,14.0,48.8
+190,Ramanna Layout Krishnappa Layout Mangammana Palya,190 - NEW CARMEL PUBLIC HIGHER SCHOOL ROOM,116,82,45.0,14.7,31.0,40.5,13.8,46.6
+191,"Nanjundappa Layout,Mangammana Palya.",191 - NEW CARMEL PUBLIC HIGHER SCHOOL ROOM,542,331,45.2,9.0,41.0,36.5,13.5,50.4
+192,"Nanjundappa Layout,Mangammana Palya.",192 - JOHNSON ENGLISH PRIMARY AND HIGH,617,451,43.5,16.7,40.2,29.5,13.6,51.9
+193,"I T I Layout, Ellukunte",193 - JOHNSON ENGLISH PRIMARY AND HIGH,779,577,42.7,19.4,37.7,30.2,12.7,49.7
+193,"Nanjundappa Layout,Mangammana Palya.",193 - JOHNSON ENGLISH PRIMARY AND HIGH,153,131,37.4,27.5,50.3,17.6,4.6,46.4
+194,Bommanahalli Maseedi Road.,194 - St.Joseph English Nursery Primary And High,320,226,42.2,17.8,43.1,28.1,10.9,44.7
+194,"Bommanahalli, Maseedi Road Leftside Shankarnag out Road.",194 - St.Joseph English Nursery Primary And High,65,56,40.5,21.5,47.7,20.0,10.8,47.7
+195,Bommanahalli Maseedi Road.,195 - St.Joseph English Nursery Primary And High,357,232,42.5,16.5,45.9,24.6,12.9,51.5
+196,Bommanahalli Viratanagara-W-14,196 - St.Joseph English Nursery Primary And High,533,349,44.9,11.8,40.9,33.0,14.3,49.7
+196,beand c m c bommanahalli part no. : 196,196 - St.Joseph English Nursery Primary And High,155,119,41.0,27.7,37.4,21.9,12.9,43.9
+197,Viratanagara Main Road Bommanahalli.,"197 - The Presidency English School,Room No-3 ,Virata",527,313,41.1,19.2,45.7,24.5,10.6,48.8
+198,N R Layout,"198 - The Presidency English School,Room No-4 ,Virata",66,48,39.2,27.3,45.5,19.7,7.6,48.5
+198,presidency English School Road Bommanahalli N R Layout,"198 - The Presidency English School,Room No-4 ,Virata",421,294,42.4,22.6,35.4,27.6,14.5,49.6
+199,Bomman Halli (Viratanagar).,"199 - The Presidency English School,Room No-5 ,Virata",492,332,43.7,15.4,39.2,33.1,12.2,48.8
+200,Bomman Halli (Viratanagar).,"200 - The Presidency English School,Room No-6 ,Virata",449,313,42.9,24.1,31.6,31.8,12.5,49.7
+200,"Bomman Halli Masidi Road Left Side, Shankarnag Road","200 - The Presidency English School,Room No-6 ,Virata",64,53,42.4,21.9,40.6,18.8,18.8,50.0
+201,0pp hotel souparnika part no. : 201,"201 - Royal Convent High School Room No-2,",25,19,46.2,0.0,48.0,44.0,8.0,48.0
+201,Bommanahalli Masjid Road leaf Said Shankar Nag Road,"201 - Royal Convent High School Room No-2,",45,36,44.0,20.0,22.2,48.9,8.9,51.1
+201,Shankarnag Road,"201 - Royal Convent High School Room No-2,",250,159,44.1,16.0,35.6,33.6,14.8,48.4
+201,Shankarnag Road Left side,"201 - Royal Convent High School Room No-2,",13,12,33.9,46.2,30.8,23.1,0.0,53.8
+201,Virathanagara,"201 - Royal Convent High School Room No-2,",213,174,38.4,33.3,33.8,26.8,6.1,51.6
+201,Viratnagar Mainroad,"201 - Royal Convent High School Room No-2,",49,42,41.7,22.4,38.8,30.6,8.2,46.9
+202,"itina sarva apartment, bommanahalli part no. : 202",202 - Bhagyalakshmi Convent and English High,523,384,42.2,17.4,43.0,30.0,9.6,47.6
+203,"Kaveri Nagar, Bommanahalli","203 - Bhagyalakshmi Convent and English High School,",605,415,44.7,16.2,37.0,29.9,16.9,51.1
+204,"Beguru, Main Road, 1st to 4th Cross, Bommanahali.","204 - Bhagyalakshmi Convent and English High School,",359,235,43.7,12.0,45.7,29.2,13.1,51.3
+204,"Shahi Export Road, Bommanahalli","204 - Bhagyalakshmi Convent and English High School,",72,54,44.8,11.1,43.1,31.9,13.9,45.8
+205,"Manjunatha Layout, Ellukunte.","205 - Government Model Higher Primary School,Room",295,155,47.9,8.5,39.3,27.5,24.7,45.1
+205,aadarsh apartment part no. : 205,"205 - Government Model Higher Primary School,Room",29,23,46.5,3.4,58.6,20.7,17.2,44.8
+205,h s r 7th sector part no. : 205,"205 - Government Model Higher Primary School,Room",367,255,45.0,22.1,27.8,31.3,18.8,47.1
+206,"H.S.R. Layout, 7th Sector.","206 - Government Model Higher Primary School,Room",573,308,52.1,9.8,23.2,33.2,33.9,50.1
+207,"Ambedkar Layout, Ellukunte.","207 - Government Model Higher Primary School,Room",114,77,47.1,14.0,30.7,33.3,21.9,50.9
+207,"Rasheed Buildig,Left Side of Mangammana Palya Road,","207 - Government Model Higher Primary School,Room",258,185,45.5,13.2,37.6,32.2,17.1,49.6
+207,ellukunte gramatana. part no. : 207,"207 - Government Model Higher Primary School,Room",123,81,42.7,25.2,37.4,22.8,14.6,50.4
+208,"H.S.R. Layout, 3rd Sector","208 - Government Model Higher Primary School,Room",436,257,48.6,11.7,32.6,30.3,25.5,50.7
+209,"H.S.R. Layout, 3rd Sector","209 - Government Model Higher Primary School,Room",517,316,46.8,17.6,31.3,27.3,23.8,49.5
+210,"H.S.R. Layout, 3rd Sector","210 - Government Model Higher Primary School,Room",707,385,48.2,12.2,32.4,30.8,24.6,48.2
+211,"Nilakantheshwar Layout,Ellukunte.",211 - NEW CARMEL PUBLIC HIGHER SCHOOL ROOM,555,366,44.9,15.9,37.3,30.5,16.4,51.2
+212,"Nilakantheshwar Layout,Ellukunte.",212 - NEW CARMEL PUBLIC HIGHER SCHOOLROOM,334,261,43.5,22.2,31.4,31.7,14.7,50.3
+212,"nagarjuna green ridge apartment, ellukunte part no. : 212",212 - NEW CARMEL PUBLIC HIGHER SCHOOLROOM,305,233,45.6,15.4,23.0,51.5,10.2,50.8
+212,rich home apartment part no. : 212,212 - NEW CARMEL PUBLIC HIGHER SCHOOLROOM,25,22,44.6,12.0,28.0,56.0,4.0,52.0
+213,"Muneshwara Layout, Hosapalya.","213 - NAMMURA GOVT HIGHER PRIMARY SCHOOL,",340,228,42.1,21.2,38.2,29.1,11.5,47.9
+214,"Muneshwara Layout, Hosapalya.","214 - NAMMURA GOVT HIGHER PRIMARY SCHOOL,",470,341,41.8,27.9,30.4,27.7,14.0,51.3
+215,Muneshwara Layout,"215 - NAMMURA GOVT HIGHER PRIMARY SCHOOL,",144,108,44.6,14.6,32.6,44.4,8.3,50.0
+215,"Muneshwara Layout, Hosapalya.","215 - NAMMURA GOVT HIGHER PRIMARY SCHOOL,",246,168,41.1,18.3,43.5,29.3,8.9,47.6
+216,Muneshwara Layout,"216 - NAMMURA GOVT HIGHER PRIMARY SCHOOL,",381,248,43.3,17.3,39.4,31.0,12.3,54.1
+217,Muneshwara Layout,217 - GOVERNMENT ANGANWADI CENTER,152,106,40.1,18.4,53.3,22.4,5.9,47.4
+217,hosapalya part no. : 217,217 - GOVERNMENT ANGANWADI CENTER,131,106,47.3,9.9,37.4,32.1,20.6,42.0
+218,hosapalya part no. : 218,218 - BBMP HELP CENTER SOMASUNDRAPALYA,477,359,42.4,16.1,43.8,30.6,9.4,48.2
+219,soma sundara palya. part no. : 219,219 - SVR CHINMAYA SCHOOL Somasundara Palya,567,417,45.6,15.7,33.2,36.7,14.5,48.9
+220,soma sundara palya. part no. : 220,220 - SVR CHINMAYA SCHOOL Somasundara Palya,567,410,47.2,6.3,34.2,47.3,12.2,49.6
+221,Royal Pyastin Layout Somasundara Palya And Sai Poorna,221 - SVR CHINMAYA SCHOOL Somasundara Palya,104,84,49.1,5.8,25.0,51.9,17.3,58.7
+221,"behind k e b power station, somasundara palya part no. : 221",221 - SVR CHINMAYA SCHOOL Somasundara Palya,364,263,47.0,8.8,32.7,43.7,14.8,45.9
+222,chinmai school himbag part no. : 222,222 - SVR CHINMAYA SCHOOL Somasundara Palya,92,66,47.5,5.4,32.6,51.1,10.9,50.0
+222,shayi poorna aparmenta part no. : 222,222 - SVR CHINMAYA SCHOOL Somasundara Palya,15,12,42.1,33.3,13.3,53.3,0.0,73.3
+222,shayi poorna aparmenta seemasandra palya part no. : 222,222 - SVR CHINMAYA SCHOOL Somasundara Palya,34,22,46.6,5.9,11.8,82.4,0.0,47.1
+222,soma sundara palya. part no. : 222,222 - SVR CHINMAYA SCHOOL Somasundara Palya,351,266,47.9,9.7,25.6,49.9,14.8,47.6
+223,overseas electors part no. : 223,"223 - BBMP HELP CENTRE,SOMASUNDARAPALYA B",6,5,30.0,50.0,33.3,16.7,0.0,50.0
+223,"soma sundara palya, free sites. part no. : 223","223 - BBMP HELP CENTRE,SOMASUNDARAPALYA B",577,416,40.7,23.1,45.8,22.5,8.7,49.4
+224,"soma sundara palya, free sites. part no. : 224","224 - NAMMURA GOVT HIGHER PRIMARY SCHOOL,",733,581,41.3,20.3,43.0,26.1,10.6,49.8
+225,"soma sundara palya, free sites. part no. : 225","225 - NAMMURA GOVT HIGHER PRIMARY SCHOOL,",538,389,43.4,14.9,45.4,25.7,14.1,49.4
+226,"soma sundara palya, free sites. part no. : 226","226 - NAMMURA GOVT HIGHER PRIMARY SCHOOL,",353,257,44.3,13.3,41.9,30.3,14.4,50.4
+227,kodlu mukyaraste somasundeahalli 7 г- part no. : 227,"227 - NAMMURA GOVT HIGHER PRIMARY SCHOOL,",10,8,46.5,20.0,30.0,40.0,10.0,50.0
+227,"soma sundara palya, free sites. part no. : 227","227 - NAMMURA GOVT HIGHER PRIMARY SCHOOL,",257,167,45.5,10.1,37.0,41.6,11.3,51.0
+227,somasundara palya. part no. : 227,"227 - NAMMURA GOVT HIGHER PRIMARY SCHOOL,",179,141,47.6,7.3,36.3,41.3,15.1,49.2
+228,"soma sundara palya, free sites. part no. : 228","228 - NAMMURA GOVT HIGHER PRIMARY SCHOOL,",27,22,49.5,0.0,51.9,29.6,18.5,55.6
+228,somasundara palya. part no. : 228,"228 - NAMMURA GOVT HIGHER PRIMARY SCHOOL,",284,201,45.6,11.3,38.4,38.0,12.3,48.9
+229,Muneshwara Layout Bandepalya,229 - NAMMURA GOVERNMENT HIGHER PRIMARY,528,338,42.0,20.6,42.2,22.3,14.8,50.4
+229,Muniswamappa Layout Bandepalya,229 - NAMMURA GOVERNMENT HIGHER PRIMARY,83,67,41.4,20.5,43.4,30.1,6.0,50.6
+230,"Muneshwara Nagara, Ist to 8th Cross.",230 - NAMMURA GOVERNMENT HIGHER PRIMARY,892,458,42.1,16.8,43.7,30.2,9.3,47.8
+231,"Muneshwara Temple Road,Bandepalya",231 - NAMMURA GOVERNMENT HIGHER PRIMARY,624,344,40.5,18.6,46.6,28.7,6.1,49.4
+232,11th Main Road,232 - NAMMURA GOVERNMENT HIGHER PRIMARY,118,77,46.2,11.9,37.3,36.4,14.4,44.1
+232,"12th Mainroad, Left Side",232 - NAMMURA GOVERNMENT HIGHER PRIMARY,99,71,44.0,23.2,31.3,24.2,21.2,51.5
+232,"Muneshwara Temple Road,Bandepalya",232 - NAMMURA GOVERNMENT HIGHER PRIMARY,293,194,38.9,27.0,45.1,18.8,9.2,49.1
+232,"gov.t school,left side bandepalya- part no. : 232",232 - NAMMURA GOVERNMENT HIGHER PRIMARY,158,119,40.8,25.3,38.6,27.2,8.9,46.2
+233,Hosapalya 1st to 9th Cross.,233 - NAMMURA GOVERNMENT HIGHER PRIMARY,680,314,43.9,17.6,39.9,27.5,15.0,50.0
+234,Hosapalya 1st to 9th Cross.,234 - NAMMURA GOVERNMENT HIGHER PRIMARY,448,250,43.0,13.4,46.7,28.1,11.8,50.4
+235,Hosapalya 1st to 9th Cross.,235 - NAMMURA GOVERNMENT HIGHER PRIMARY,415,244,43.7,15.7,40.5,31.3,12.5,51.3
+236,Hosapalya 1st to 9th Cross.,236 - NAMMURA GOVERNMENT HIGHER PRIMARY,137,99,39.1,20.4,51.8,24.1,3.6,48.9
+236,annammana palya bandepalya- part no. : 236,236 - NAMMURA GOVERNMENT HIGHER PRIMARY,321,210,43.2,18.7,38.6,32.1,10.6,47.7
+237,"V E S Kanvent, School Road, Garvebhavi Palya","237 - V E S Convent And high School Garvebhavi Palya,",422,266,47.2,11.6,31.3,38.6,18.5,49.1
+237,"Vajapei Nagara,Garvebhavi Palya","237 - V E S Convent And high School Garvebhavi Palya,",14,14,34.4,42.9,28.6,28.6,0.0,50.0
+238,"V E S Convet, School Road, Garvebhavi Palya","238 - V E S Convent And high School Garvebhavi Palya,",331,227,48.6,4.5,36.3,39.6,19.6,48.9
+239,"Muniyappa Layout, Garvebavi Palya",239 - VES CONVENT HIGH SCHOOL G B PALYA,484,317,47.2,6.6,36.0,41.3,16.1,51.9
+240,Hongasandra 1st Mainroad To 3Rd Mainroad Kakappa Layout.,240 - Bhagyalakshmi Convent and English High School,485,351,42.9,15.5,45.2,27.2,12.2,48.5
+241,4th Mainroad Anjaneya Swamy Temple Road Balaji Layout,241 - Bhagyalakshmi Convent and English High School,342,236,45.1,14.9,37.4,31.0,16.7,49.1
+241,Balaji Layout Right Side,241 - Bhagyalakshmi Convent and English High School,51,43,38.9,13.7,58.8,23.5,3.9,51.0
+241,ittina sarva appartement 7 г- part no. : 241,241 - Bhagyalakshmi Convent and English High School,22,17,40.1,27.3,36.4,22.7,13.6,63.6
+242,4th Mainroad Anjaneya Swamy Temple Road Balaji Layout,242 - Bhagyalakshmi Convent and English High School,338,204,41.9,15.4,42.6,34.0,8.0,50.0
+243,4th Mainroad Anjaneya Swamy Temple Road Balaji Layout,243 - Bhagyalakshmi Convent and English High School,290,186,44.6,15.9,34.5,35.2,14.5,48.3
+243,Balaji Layout,243 - Bhagyalakshmi Convent and English High School,46,39,40.8,15.2,47.8,30.4,6.5,52.2
+244,4th Mainroad Anjaneya Swamy Temple Road Balaji Layout,244 - Brahma Giri Vidhyamandira 4th Main Road 2nd,282,194,43.1,22.3,30.9,35.5,11.3,47.9
+245,4th Mainroad Anjaneya Swamy Temple Road Balaji Layout,245 - Brahma Giri Vidhyamandira 4th Main Road 2nd,287,209,43.7,19.9,35.5,30.0,14.6,50.2
+245,"6Th Mainroad, Balaji Layout",245 - Brahma Giri Vidhyamandira 4th Main Road 2nd,105,84,40.6,23.8,38.1,29.5,8.6,52.4
+246,4th Mainroad Anjaneya Swamy Temple Road Balaji Layout,246 - Brahma Giri Vidhyamandira 4th Main Road 2nd,285,181,44.3,12.6,40.4,35.8,11.2,48.8
+247,4th Mainroad Anjaneya Swamy Temple Road Balaji Layout,247 - Brahma Giri Vidhyamandira 4th Main Road 2nd,193,138,39.6,25.9,42.0,23.8,8.3,46.6
+247,5th Cross,247 - Brahma Giri Vidhyamandira 4th Main Road 2nd,78,45,48.7,9.0,29.5,41.0,20.5,47.4
+247,"6Th Mainroad, Balaji Layout",247 - Brahma Giri Vidhyamandira 4th Main Road 2nd,65,58,42.8,21.5,35.4,30.8,12.3,58.5
+247,8th cross,247 - Brahma Giri Vidhyamandira 4th Main Road 2nd,15,9,43.7,13.3,40.0,40.0,6.7,66.7
+247,near anjaneya temple part no. : 247,247 - Brahma Giri Vidhyamandira 4th Main Road 2nd,34,28,40.2,23.5,41.2,23.5,11.8,47.1
+248,behind anjaneya swamy temple- part no. : 248,248 - Brahma Giri Vidhyamandira 4th Main Road 2nd,447,254,45.0,8.9,42.3,36.2,12.5,50.1
+249,Ambedkar Colony.,249 - Brahma Giri Vidhyamandira 4th Main Road 2nd,24,23,37.8,33.3,37.5,20.8,8.3,50.0
+249,Muneshwar Layout Right Side,249 - Brahma Giri Vidhyamandira 4th Main Road 2nd,263,179,43.0,14.8,44.9,30.8,9.5,46.8
+250,Ambedkar Colony.,250 - Brahma Giri Vidhyamandira 4th Main Road 2nd,181,119,43.5,11.6,44.8,35.9,7.7,53.6
+250,Muneshwar Layout Right side,250 - Brahma Giri Vidhyamandira 4th Main Road 2nd,250,177,43.2,16.4,39.2,33.2,11.2,46.0
+251,Balaji Layout,251 - MET Day And Evening College 4th Main Road Opp,69,53,40.9,24.6,42.0,20.3,13.0,42.0
+251,Govt. High Primary School New Building Road,251 - MET Day And Evening College 4th Main Road Opp,54,41,43.4,18.5,35.2,33.3,13.0,51.9
+251,Muneshwar Layout left side,251 - MET Day And Evening College 4th Main Road Opp,211,143,44.6,10.4,44.5,31.8,13.3,44.5
+251,"Near Govenament school , Muneshwra Layout , Ambedkar",251 - MET Day And Evening College 4th Main Road Opp,17,17,36.5,17.6,58.8,23.5,0.0,41.2
+252,Muneshwara Layout left side,252 - MET DAY AND EVENING COLLEGE 4TH MAIN,265,190,43.1,15.5,40.0,32.5,12.1,45.7
+252,ambedkar calony part no. : 252,252 - MET DAY AND EVENING COLLEGE 4TH MAIN,57,44,43.2,19.3,35.1,35.1,10.5,45.6
+253,Ambedkar Colony 10th Mainroad 1st Cross.,253 - Govt Model Primary School 8th Main road,406,257,41.0,21.7,42.4,25.1,10.8,45.6
+254,S. R Naidu Layout,254 - Govt Model Primary School 8th Main road,538,416,39.4,29.2,37.9,22.7,10.2,47.6
+255,10th Mainroad To Devarachikkanahalli Mainroad,"255 - Govt Model Primary School, 8th Main road,",154,123,43.8,20.8,31.2,33.1,14.9,45.5
+255,Sapna Bar 10th Mainroad,"255 - Govt Model Primary School, 8th Main road,",326,239,41.0,24.5,36.8,29.1,9.5,48.5
+256,10th Cross Hongasandra,256 - Govt Model Primary School 8th Main road,29,26,39.9,31.0,31.0,31.0,6.9,48.3
+256,"10th Cross, Hongasandra",256 - Govt Model Primary School 8th Main road,64,55,37.5,40.6,29.7,15.6,14.1,48.4
+256,10th Mainroad To Devarachikkanahalli Mainroad,256 - Govt Model Primary School 8th Main road,210,140,43.6,15.7,39.0,31.9,13.3,54.8
+256,"9Th Cross, Hongasandra",256 - Govt Model Primary School 8th Main road,19,16,38.3,31.6,42.1,21.1,5.3,36.8
+256,9th Mainroad Hongasandra,256 - Govt Model Primary School 8th Main road,32,26,38.0,28.1,37.5,31.2,3.1,43.8
+256,Adarsha Vidyamandira Right Side Mainroad 9th Cross,256 - Govt Model Primary School 8th Main road,79,61,50.1,8.9,24.1,44.3,22.8,44.3
+256,Beguru Mainroad,256 - Govt Model Primary School 8th Main road,16,13,44.4,25.0,31.2,31.2,12.5,43.8
+256,hongasandra part no. : 256,256 - Govt Model Primary School 8th Main road,16,14,40.8,25.0,50.0,12.5,12.5,56.2
+257,Vinayaka Layout.,257 - Emerald International School 14th Main Road,438,246,45.1,17.1,33.1,31.1,18.7,50.9
+257,infront of banashankari tent- part no. : 257,257 - Emerald International School 14th Main Road,149,104,44.8,21.5,24.2,38.9,15.4,48.3
+258,Devarachikkanahalli Mainroad,258 - Emerald International School 14th Main Road,460,273,46.6,13.3,33.7,33.5,19.6,47.6
+258,near jayappa reddy house 1 г part no. : 258,258 - Emerald International School 14th Main Road,94,79,46.7,13.8,29.8,37.2,19.1,46.8
+259,Begur Mainroad Left Side Band Box Road Hongasandra.,"259 - Oxford College Of Pharmacy , Room No-1 1st Main",361,281,43.1,20.5,34.9,30.7,13.9,50.4
+260,Band Box Road,"260 - Oxford College Of Pharmacy , Room No-2 1st Main",22,20,35.5,22.7,50.0,27.3,0.0,40.9
+260,Munisubba Reddy Layout,"260 - Oxford College Of Pharmacy , Room No-2 1st Main",29,28,36.9,34.5,37.9,24.1,3.4,37.9
+260,Srinivas Reddy Layout,"260 - Oxford College Of Pharmacy , Room No-2 1st Main",378,257,46.7,15.3,33.1,28.8,22.8,47.9
+260,srinivasa kalyana mantapa part no. : 260,"260 - Oxford College Of Pharmacy , Room No-2 1st Main",50,38,42.8,22.0,42.0,18.0,18.0,54.0
+260,subramanya garden part no. : 260,"260 - Oxford College Of Pharmacy , Room No-2 1st Main",46,40,40.1,30.4,39.1,21.7,8.7,58.7
+261,Srinivas Reddy Layout,"261 - Oxford College Of Pharmacy , Room No-3 1st Main",729,536,42.0,16.0,47.9,27.3,8.8,52.0
+262,Hongasandra Byand Box Beside Roads,"262 - Oxford College Of Pharmacy, Room No-4 1st Main",715,586,45.0,16.6,38.3,26.2,18.9,49.8
+262,overseas electors part no. : 262,"262 - Oxford College Of Pharmacy, Room No-4 1st Main",5,5,52.8,0.0,60.0,0.0,40.0,20.0
+263,Hongasandra Byand Box Beside Roads,"263 - Oxford College Of Pharmacy , Room No-5 1st Main",332,280,45.2,14.2,40.4,29.2,16.3,51.8
+263,Munisubba reddy Layout,"263 - Oxford College Of Pharmacy , Room No-5 1st Main",208,147,47.5,9.1,34.1,38.9,17.8,47.6
+264,Subbaiah Garden Layout,"264 - Oxford College Of Pharmacy, Room No-6 1st Main",547,418,43.0,18.8,39.1,29.8,12.2,50.6
+265,Manjunatha Layout Lakshmi Layout.,265 - ARADHANA ACADEMY SCHOOL ARAKERE,983,685,43.2,26.9,27.3,28.1,17.8,49.8
+265,overseas electors part no. : 265,265 - ARADHANA ACADEMY SCHOOL ARAKERE,10,9,42.8,30.0,30.0,10.0,30.0,20.0
+266,Lakshmi layout,266 - ARADHANA ACADEMY SCHOOL ARAKERE,948,535,44.8,17.2,36.3,29.4,17.1,47.9
+267,Lakshmi layout,267 - ARADHANA ACADEMY SCHOOL ARAKERE,878,495,42.4,19.9,41.2,24.9,13.9,48.6
+268,Brundavana Layout,268 - ARADHANA ACADEMY SCHOOL ARAKERE,223,134,47.9,16.6,33.6,22.0,27.8,49.3
+268,Mico Layout Arakere.,268 - ARADHANA ACADEMY SCHOOL ARAKERE,512,309,52.7,10.4,23.0,30.5,36.1,49.0
+268,"Mico Layout, 2nd Stage, Arakere",268 - ARADHANA ACADEMY SCHOOL ARAKERE,38,31,44.5,28.9,26.3,23.7,21.1,55.3
+269,0mkara Nagar,269 - ARADHANA ACADEMY SCHOOL ARAKERE,414,258,52.1,9.9,23.4,33.6,33.1,51.4
+269,charted karonet part no. : 269,269 - ARADHANA ACADEMY SCHOOL ARAKERE,39,29,53.5,23.1,10.3,23.1,43.6,59.0
+269,manthri wood land part no. : 269,269 - ARADHANA ACADEMY SCHOOL ARAKERE,340,208,52.4,7.9,25.9,33.5,32.6,51.2
+270,Mico Layout Arakere.,270 - ARADHANA ACADEMY SCHOOL ARAKERE,1028,612,49.9,15.3,26.1,28.2,30.4,47.2
+271,Vijayasri layout.,271 - ARADHANA ACADEMY SCHOOL ARAKERE,550,310,45.9,15.6,37.3,27.3,19.8,47.5
+272,Aradana Layout,272 - ARADHANA ACADEMY SCHOOL ARAKERE,198,148,48.3,15.2,19.7,45.5,19.7,47.5
+272,Lakshman Reddy Layout,272 - ARADHANA ACADEMY SCHOOL ARAKERE,44,30,47.1,9.1,29.5,45.5,15.9,54.5
+272,Nanjappa Layout,272 - ARADHANA ACADEMY SCHOOL ARAKERE,142,99,47.9,15.5,32.4,28.2,23.9,45.1
+272,Siddareddy Layout,272 - ARADHANA ACADEMY SCHOOL ARAKERE,32,24,47.3,18.8,25.0,34.4,21.9,46.9
+272,Sindicate Bank Colony.,272 - ARADHANA ACADEMY SCHOOL ARAKERE,348,236,51.2,14.1,25.3,25.9,34.8,48.3
+272,Srinivasalu Layout,272 - ARADHANA ACADEMY SCHOOL ARAKERE,80,59,49.7,5.0,30.0,42.5,22.5,47.5
+272,Vijayasri Layout,272 - ARADHANA ACADEMY SCHOOL ARAKERE,32,30,39.8,21.9,46.9,21.9,9.4,46.9
+273,Arakere Village (01-20-5 Bovi Colony.,273 - GOVT KANNADA HIGHER PRIMARY SCHOOL,511,257,49.6,4.9,34.1,40.9,20.2,49.5
+273,BTS Layout.,273 - GOVT KANNADA HIGHER PRIMARY SCHOOL,7,7,44.0,28.6,28.6,28.6,14.3,100.0
+273,Bhovi Colony,273 - GOVT KANNADA HIGHER PRIMARY SCHOOL,50,39,33.8,52.0,28.0,16.0,4.0,58.0
+273,Jai Maruthi Nagar,273 - GOVT KANNADA HIGHER PRIMARY SCHOOL,23,21,37.3,39.1,30.4,21.7,8.7,69.6
+273,Ramaswamy Layout,273 - GOVT KANNADA HIGHER PRIMARY SCHOOL,29,25,36.6,37.9,34.5,24.1,3.4,48.3
+273,Yallappa Reddy Layout*,273 - GOVT KANNADA HIGHER PRIMARY SCHOOL,16,14,30.2,56.2,37.5,6.2,0.0,43.8
+273,overseas electors part no. : 273,273 - GOVT KANNADA HIGHER PRIMARY SCHOOL,6,4,21.0,100.0,0.0,0.0,0.0,83.3
+274,Anjaneya Temple Street,274 - GOVT KANNADA HIGHER PRIMARY SCHOOL,530,273,45.2,10.2,40.0,34.9,14.9,48.1
+274,Jai Maruthi Nagar,274 - GOVT KANNADA HIGHER PRIMARY SCHOOL,70,53,40.0,34.3,25.7,28.6,11.4,50.0
+274,Krishnappa Layout,274 - GOVT KANNADA HIGHER PRIMARY SCHOOL,59,41,44.9,16.9,35.6,30.5,16.9,52.5
+275,Arakere Village Samrat layout.,275 - GOVT KANNADA HIGHER PRIMARY SCHOOL,687,394,49.9,9.8,26.8,39.4,24.0,49.9
+276,Arakere Village Samrat layout.,276 - GOVT KANNADA HIGHER PRIMARY SCHOOL,605,426,47.4,13.2,32.1,32.2,22.5,48.9
+276,Vinayaka Nagar,276 - GOVT KANNADA HIGHER PRIMARY SCHOOL,7,7,30.1,57.1,14.3,28.6,0.0,42.9
+276,overseas electors part no. : 276,276 - GOVT KANNADA HIGHER PRIMARY SCHOOL,11,11,43.7,18.2,36.4,27.3,18.2,72.7
+277,Arakere Village Samrat layout.,277 - GOVT KANNADA HIGHER PRIMARY SCHOOL,38,35,34.1,57.9,15.8,13.2,13.2,44.7
+277,Bannerughatta main road appartment arakere,277 - GOVT KANNADA HIGHER PRIMARY SCHOOL,326,281,42.6,25.2,29.4,31.6,13.8,46.9
+277,Vinayaka Nagar,277 - GOVT KANNADA HIGHER PRIMARY SCHOOL,429,310,46.0,19.1,27.0,35.9,17.9,47.1
+278,Arakere Muththappa Layout Coconut Garden.,278 - DIANA MEMORIAL HIGH SCHOOL ARAKERE,168,96,48.8,6.5,33.9,38.1,21.4,50.0
+278,Gopalareddy Layout.,278 - DIANA MEMORIAL HIGH SCHOOL ARAKERE,79,59,40.1,25.3,44.3,17.7,12.7,49.4
+278,K. N.P . Layout,278 - DIANA MEMORIAL HIGH SCHOOL ARAKERE,33,25,37.8,39.4,30.3,21.2,9.1,42.4
+278,Vijaya Layout.,278 - DIANA MEMORIAL HIGH SCHOOL ARAKERE,87,65,44.6,20.7,34.5,23.0,21.8,47.1
+278,arekare part no. : 278,278 - DIANA MEMORIAL HIGH SCHOOL ARAKERE,142,91,51.3,4.9,25.4,46.5,23.2,45.1
+278,tengina totha part no. : 278,278 - DIANA MEMORIAL HIGH SCHOOL ARAKERE,17,15,41.6,23.5,23.5,41.2,11.8,47.1
+279,"Indira Priyadarshini Colony,Arakere.","279 - MITRA ACADEMY SCHOOL NO 7/1,2ND MAIN",546,267,45.9,10.6,37.9,36.3,15.2,47.3
+280,"Indira Priyadarshini Colony,Arakere.",280 - MITRA ACADEMY SCHOOL ROOM NO-2 7/1 2ND,463,379,37.9,33.3,37.1,20.7,8.9,44.7
+281,"Indira Priyadarshini Colony,Arakere.",281 - MITRA ACADEMY SCHOOL ROOM NO-3 7/1 2ND,410,209,48.7,4.9,37.1,38.8,19.3,48.3
+281,"Nanjappa layout sushma gardan, Nyathappa Layout",281 - MITRA ACADEMY SCHOOL ROOM NO-3 7/1 2ND,5,5,46.4,20.0,40.0,20.0,20.0,60.0
+282,"Doctor's Layout,",282 - MITRA ACADEMY SCHOOL ROOM NO-4 7/12ND,82,72,37.7,36.6,31.7,24.4,7.3,43.9
+282,"Indira Priyadarshini Colony,Arakere.",282 - MITRA ACADEMY SCHOOL ROOM NO-4 7/12ND,23,23,37.1,56.5,13.0,13.0,17.4,56.5
+282,Meenakshi Layout,282 - MITRA ACADEMY SCHOOL ROOM NO-4 7/12ND,98,77,49.1,14.3,18.4,50.0,17.3,45.9
+282,"Nanjappa layout sushma gardan, Nyathappa Layout",282 - MITRA ACADEMY SCHOOL ROOM NO-4 7/12ND,95,75,40.1,28.4,33.7,28.4,9.5,50.5
+282,"Singh Layout, Arakere",282 - MITRA ACADEMY SCHOOL ROOM NO-4 7/12ND,89,67,39.1,37.1,28.1,23.6,11.2,56.2
+282,anjaneya temple right side- part no. : 282,282 - MITRA ACADEMY SCHOOL ROOM NO-4 7/12ND,28,24,36.5,35.7,39.3,25.0,0.0,42.9
+282,near arakere chowdeshwari temple- part no. : 282,282 - MITRA ACADEMY SCHOOL ROOM NO-4 7/12ND,17,16,36.9,41.2,35.3,11.8,11.8,58.8
+283,arakere. part no. : 283,"283 - MITRA ACADEMY SCHOOL NO 7/1,2ND MAIN",428,233,45.6,12.1,37.1,35.7,15.0,48.6
+284,Krishnareddy layout,"284 - MITRA ACADEMY SCHOOL NO 7/1,2ND MAIN",412,260,35.8,38.8,36.7,21.4,3.2,51.0
+284,V B T Layout,"284 - MITRA ACADEMY SCHOOL NO 7/1,2ND MAIN",16,12,45.6,18.8,37.5,25.0,18.8,43.8
+284,Yallappa Layout,"284 - MITRA ACADEMY SCHOOL NO 7/1,2ND MAIN",99,67,39.0,31.3,35.4,27.3,6.1,42.4
+284,arakere. part no. : 284,"284 - MITRA ACADEMY SCHOOL NO 7/1,2ND MAIN",175,110,44.5,9.1,46.3,33.7,10.9,44.6
+285,arakere. part no. : 285,285 - DIVYA JYOTHI HIGH SCHOOL ROOM NO-01,181,128,45.9,9.9,43.1,29.8,17.1,44.8
+285,b t s loyout part no. : 285,285 - DIVYA JYOTHI HIGH SCHOOL ROOM NO-01,520,389,41.1,24.8,40.0,23.7,11.5,47.9
+286,"BTS Layout, Arakere",286 - SHREE DIVYA JYOTHI HIGH SCHOOL ARAKERE,228,200,37.2,37.3,36.4,19.3,7.0,48.7
+286,arakere. part no. : 286,286 - SHREE DIVYA JYOTHI HIGH SCHOOL ARAKERE,360,195,48.7,5.0,37.2,37.2,20.6,50.3
+287,V.B.T. Layout,287 - SHREE DIVYA JYOTHI HIGH SCHOOL ARAKERE,889,584,45.3,8.9,44.7,31.5,15.0,48.3
+288,Jai Hanuman Nagar,288 - SHREE DIVYA JYOTHI HIGH SCHOOL ARAKERE,717,482,43.9,19.2,37.0,28.3,15.5,48.7
+288,V.B.T. Layout,288 - SHREE DIVYA JYOTHI HIGH SCHOOL ARAKERE,281,216,45.1,14.9,44.5,23.1,17.4,48.8
+288,overseas electors part no. : 288,288 - SHREE DIVYA JYOTHI HIGH SCHOOL ARAKERE,72,61,35.8,37.5,34.7,25.0,2.8,48.6
+289,shanthi nikethan vyshya bank part no. : 289,289 - BRUHATH BENGALURU MAHANAGARA PALIKE,943,660,47.1,12.6,36.4,27.9,23.1,52.9
+290,shanthinikethan part no. : 290,290 - BRUHATH BENGALURU MAHANAGARA PALIKE,707,438,49.7,11.5,29.6,29.1,29.8,47.9
+291,Anjaneya Swamy And Raghavendra Swamy Temple Road,291 - Govt. Higher Primary School Old Building Room No,282,172,47.8,13.5,30.5,36.2,19.9,49.3
+291,Harijan Colony Devara Chikkanahalli.,291 - Govt. Higher Primary School Old Building Room No,390,271,41.5,22.3,40.0,29.0,8.7,50.3
+292,Nanappana Halli Road,292 - GOVT HIGHER PRIMARY SCHOOL ROOM NO 2,46,28,46.4,6.5,43.5,34.8,15.2,54.3
+292,Pillareddy Layout,292 - GOVT HIGHER PRIMARY SCHOOL ROOM NO 2,71,48,43.5,12.7,45.1,31.0,11.3,43.7
+292,ayyanur garden part no. : 292,292 - GOVT HIGHER PRIMARY SCHOOL ROOM NO 2,25,16,44.2,12.0,36.0,40.0,12.0,56.0
+292,devarachikkanahalli part no. : 292,292 - GOVT HIGHER PRIMARY SCHOOL ROOM NO 2,576,421,42.2,20.8,40.5,25.5,13.2,46.7
+292,vaishnavi residency part no. : 292,292 - GOVT HIGHER PRIMARY SCHOOL ROOM NO 2,25,23,38.0,28.0,40.0,20.0,12.0,44.0
+293,Krishna Layout Devara Chikkanahalli.,293 - ANGANWADI KENDRA DEVARACHIKANNAHALLI,583,308,43.5,18.0,39.8,28.6,13.6,49.9
+294,Krishna Layout Devara Chikkanahalli.,294 - GOVT HIGHER PRIMARY SCHOOL ROOM NO 1,617,346,43.7,17.0,37.8,32.6,12.6,50.7
+295,Abbaiah Reddy And Thimmareddy Layout Devara,295 - Govt. Higher Primary School New Building Room,147,102,49.4,7.5,29.3,43.5,19.7,47.6
+295,Hanuma Reddy Layout Devara Chikkanahalli,295 - Govt. Higher Primary School New Building Room,364,273,43.5,16.2,40.7,28.3,14.8,46.2
+296,"Devarchikkana Halli, Raghavendhra Swamy Layout.",296 - NEW ARVIND MEMORIAL ENGLISH SCHOOL,567,305,49.2,5.5,34.4,37.7,22.4,48.0
+296,ganesha and anjaneyaswamy temple- 7 г- part no. : 296,296 - NEW ARVIND MEMORIAL ENGLISH SCHOOL,74,64,38.2,32.4,35.1,25.7,6.8,45.9
+297,B.D.A.Layout,297 - NEW ARVIND MEMORIAL ENGLISH SCHOOL,261,165,49.6,9.6,28.4,35.6,26.4,51.3
+297,Naitingel School Road,297 - NEW ARVIND MEMORIAL ENGLISH SCHOOL,33,27,49.4,3.0,51.5,21.2,24.2,45.5
+297,Sagar Layout And New Layout,297 - NEW ARVIND MEMORIAL ENGLISH SCHOOL,477,282,44.3,14.3,38.8,31.9,15.1,48.0
+298,Naightingels School Road,298 - GOVT HIGHER PRIMARY SCHOOL ROOM NO 3,436,265,46.8,8.5,38.3,34.9,18.3,53.7
+298,S B I Colony 1st Stage,298 - GOVT HIGHER PRIMARY SCHOOL ROOM NO 3,235,166,41.8,23.4,39.1,25.1,12.3,47.2
+299,Rayal Sheltar Layout Devara Chikkanahalli.,299 - GOVT HIGHER PRIMARY SCHOOL ROOM NO 4,805,413,48.5,12.8,29.3,32.9,25.0,47.6
+300,Ramesh Reddy Layout Devara Chikkanahalli,300 - Emerald International School 14th Main Road,519,346,41.7,24.7,37.4,23.9,14.1,50.1
+301,Ramesh Reddy Layout Devara Chikkanahalli,301 - Emerald International School 14th Main Road,358,269,45.5,14.5,36.6,30.2,18.7,48.3
+302,Thimmareddy Layout Devara Chikkanahalli,302 - GOVT HIGHER PRIMARY SCHOOL ROOM NO 5,602,381,43.4,17.3,38.4,32.6,11.8,48.8
+303,Begur Mainroad Sathish Reddy Beside House To Abbaiah,"303 - Oxford Public School,8Th Main road, Hongasandra",318,235,41.3,24.2,39.0,25.8,11.0,48.1
+304,Gurumurthy Layout,"304 - Oxford Public School,8Th Main road, Hongasandra",138,88,48.0,7.2,40.6,34.8,17.4,45.7
+304,Munireddy Layout,"304 - Oxford Public School,8Th Main road, Hongasandra",266,205,43.6,20.7,36.1,28.9,14.3,46.6
+305,Gurumurthy Layout,305 - Sri Venkateshwara Public High School 10th Main,322,230,42.5,18.0,41.9,29.2,10.9,47.8
+306,Munireddy Layout,306 - Sri Venkateshwara Public High School 10th Main,206,144,46.2,13.1,34.0,35.0,18.0,47.6
+306,Shanthinagar,306 - Sri Venkateshwara Public High School 10th Main,251,185,44.2,15.5,34.7,37.8,12.0,46.2
+307,Shanthinagar,307 - Sri Venkateshwara Public High School 10th Main,345,245,41.8,21.7,37.7,31.9,8.7,49.3
+308,Shanthinagar,308 - Sri Venkateshwara Public High School 10th Main,421,318,40.9,25.9,35.9,29.0,9.3,47.5
+309,"Beguru Mainroad, 7th Main to 9th Main Road,.",309 - Sri Venkateshwara Public High School 10th Main,339,241,40.7,23.9,41.3,25.7,9.1,49.3
+310,7th A Mainroad And 8th Mainroad,310 - Vidhya Jyothi High School 11th Main Road 1st,135,103,40.4,23.0,43.0,25.2,8.9,45.9
+310,"7th Main Road, 8th Main Road, 9th Main Road,",310 - Vidhya Jyothi High School 11th Main Road 1st,35,31,40.4,17.1,51.4,22.9,8.6,57.1
+310,Muniyappa Layout,310 - Vidhya Jyothi High School 11th Main Road 1st,195,122,46.2,9.7,36.4,39.0,14.9,47.2
+311,Hongasandra Garve Bhavi Palya Mainroad to 9th Mainroad,311 - Vidhya Jyothi High School 11th Main Road 1st Cross,421,276,44.2,14.3,38.2,34.0,13.5,50.8
+311,Muniyappa layout,311 - Vidhya Jyothi High School 11th Main Road 1st Cross,44,33,44.5,4.5,47.7,36.4,11.4,50.0
+312,"Hongasandra 9th Main To Left Side Venkateshwara layoute, G",312 - Vidhya Jyothi High School 11th Main Road 1st,62,51,38.7,25.8,46.8,19.4,8.1,54.8
+312,Venkateshwara Layout to Cristal Apartment,312 - Vidhya Jyothi High School 11th Main Road 1st,255,188,43.3,16.1,38.4,32.5,12.9,47.5
+313,1 to 3rd Cross Venkatappa Layout,313 - Vidhya Jyothi High School 11th Main Road 1st,104,67,48.0,6.7,34.6,37.5,21.2,51.0
+313,Beguru Mainroad. Hongasandra.,313 - Vidhya Jyothi High School 11th Main Road 1st,276,191,43.8,16.7,36.2,34.4,12.7,50.7
+314,Varasiddi Vinayaka Layout,314 - Vidhya Jyothi High School 11th Main Road 1st,398,279,41.6,21.9,35.9,31.7,10.6,49.5
+315,APR Kalyana Mantapa Road,315 - Vidhya Jyothi High School 11th Main Road 1st,246,170,48.6,7.3,31.7,42.3,18.7,47.2
+315,behind vidyajyothi school 7 г part no. : 315,315 - Vidhya Jyothi High School 11th Main Road 1st,190,152,40.8,25.3,37.4,25.3,12.1,47.4
+316,infront of vidyajyothi school. part no. : 316,316 - Vidhya Jyothi High School 11th Main Road 1st,303,164,43.7,10.9,48.5,27.7,12.9,45.9
+317,"1st Cross, 11th Main to 9th Cross",317 - Vidhya Jyothi High School 11th Main Road 1st,147,91,51.1,2.7,25.2,51.0,21.1,46.9
+317,"4th Cross, Jyothinagara, 9th Main",317 - Vidhya Jyothi High School 11th Main Road 1st,23,17,45.9,8.7,39.1,43.5,8.7,34.8
+317,"4th Cross, Vidya Jyothinagara, 11th Main.",317 - Vidhya Jyothi High School 11th Main Road 1st,23,14,48.5,4.3,30.4,47.8,17.4,43.5
+317,"5th Gross, 9th Main, Jyothinagara.",317 - Vidhya Jyothi High School 11th Main Road 1st,39,22,50.6,2.6,28.2,53.8,15.4,48.7
+317,Beguru Main Road,317 - Vidhya Jyothi High School 11th Main Road 1st,22,19,40.4,31.8,27.3,36.4,4.5,54.5
+317,"Jyothinagara, Varasiddi Vinayaka Layout.",317 - Vidhya Jyothi High School 11th Main Road 1st,18,14,52.3,11.1,16.7,27.8,44.4,44.4
+317,Vidya Jyothi Nagar,317 - Vidhya Jyothi High School 11th Main Road 1st,75,51,45.7,20.0,28.0,36.0,16.0,53.3
+317,infront of vidyajyothi school. part no. : 317,317 - Vidhya Jyothi High School 11th Main Road 1st,116,75,42.6,15.5,42.2,28.4,13.8,49.1
+318,"13, 14, And 15th Mainroad, And Narayana Reddy Layout",318 - Vidhya Jyothi High School 11th Main Road 1st,67,45,45.4,13.4,31.3,43.3,11.9,43.3
+318,Subramanya Swamy Temple Road,318 - Vidhya Jyothi High School 11th Main Road 1st,73,48,48.7,11.0,34.2,31.5,23.3,49.3
+318,behind banashankari theatre. part no. : 318,318 - Vidhya Jyothi High School 11th Main Road 1st,30,26,40.4,20.0,40.0,36.7,3.3,46.7
+318,"hongasandra, baguru raod right side. part no. : 318",318 - Vidhya Jyothi High School 11th Main Road 1st,267,176,44.4,13.9,42.3,28.5,15.4,50.6
+318,near parijatha apartment 7 г part no. : 318,318 - Vidhya Jyothi High School 11th Main Road 1st,50,43,40.2,24.0,38.0,32.0,6.0,52.0
+319,gramatana bandepalya- 7 г- part no. : 319,"319 - Diana Convent and High School, #43/1, Hosapalya",492,293,42.2,15.2,46.1,28.9,9.8,46.3
+320,"Chinnaswamy Layout,Bandepalya",320 - DAYANA CONVENT HIGHER PRIMARY SCHOOL,249,177,46.6,6.8,46.6,28.1,18.5,48.2
+320,"Mekale School Road, Bandepalya",320 - DAYANA CONVENT HIGHER PRIMARY SCHOOL,151,134,42.9,9.9,55.6,22.5,11.9,49.7
+320,gramatana bandepalya- 7 г- part no. : 320,320 - DAYANA CONVENT HIGHER PRIMARY SCHOOL,205,155,41.0,22.4,43.4,23.4,10.7,45.4
+320,overseas electors part no. : 320,320 - DAYANA CONVENT HIGHER PRIMARY SCHOOL,7,7,39.6,14.3,57.1,28.6,0.0,71.4
+321,"free saites,bandepalya- part no. : 321","321 - Diana Convent and High School, #43/1, Hosapalya",365,228,42.7,20.0,37.0,31.2,11.8,49.6
+322,"free saites,bandepalya- part no. : 322","322 - Diana Convent and High School, #43/1, Hosapalya",363,220,41.9,18.2,43.8,27.8,10.2,44.4
+323,Ambedkar Nagar Bandepalya,"323 - Diana Convent and High School, #43/1, Hosapalya",391,257,39.5,26.6,42.7,22.8,7.9,45.5
+324,Ambedkar Nagar Bandepalya,"324 - Diana Convent and High School, #43/1, Hosapalya",321,257,40.8,24.6,39.9,27.7,7.8,46.4
+324,g b palyag b palya part no. : 324,"324 - Diana Convent and High School, #43/1, Hosapalya",12,12,39.1,25.0,41.7,25.0,8.3,58.3
+325,garvebhavi palya gramatana. part no. : 325,"325 - St Mary's English School, Room No 1",834,575,45.8,12.2,38.5,32.3,17.0,49.9
+326,Shri Ramanagara Garvebhavipalya,"326 - St Mary's English School, Room No 2",466,303,42.8,16.7,41.4,31.1,10.7,49.1
+327,garvebhavi palya part no. : 327,"327 - St Mary's English School, Room No 3",387,292,42.2,19.9,40.1,27.1,12.9,50.4
+328,Nandeeshwara Layout Garvebhavi Palya,"328 - St Mary's English School, Room No 4",60,52,39.1,33.3,25.0,35.0,6.7,51.7
+328,Sudarshana Layout Garvebhavipalya,"328 - St Mary's English School, Room No 4",95,64,46.2,13.7,28.4,42.1,15.8,52.6
+328,"garvebhavi palya, gramatana. part no. : 328","328 - St Mary's English School, Room No 4",309,188,45.5,13.9,36.9,35.3,13.9,51.5
+329,"OM Shakthi Layout, Garvebhavi Palya",329 - CARMEL SCHOOL # 6 AND 7/620 2ND CROSS,37,34,32.3,51.4,35.1,10.8,2.7,48.6
+329,garvebhavi palya- part no. : 329,329 - CARMEL SCHOOL # 6 AND 7/620 2ND CROSS,346,247,42.7,20.8,37.3,27.5,14.5,48.6
+330,"OM Shakthi Layout, Garvebhavi Palya",330 - Carmel School 6 & 7/620 2nd Cross Muniyappa,51,50,35.2,37.3,51.0,5.9,5.9,52.9
+330,garvebhavi palya- part no. : 330,330 - Carmel School 6 & 7/620 2nd Cross Muniyappa,357,273,44.4,16.5,33.9,37.3,12.3,51.0
+331,Abbaiah Reddy Layout,"331 - MATHA'S INTERNATIONAL SCHOOL,ROOM NO -",70,49,46.3,20.0,22.9,34.3,22.9,55.7
+331,Munireddi Layout Compound Garvebhavi Palya,"331 - MATHA'S INTERNATIONAL SCHOOL,ROOM NO -",195,146,39.8,32.3,32.3,24.6,10.8,43.1
+331,"garvebhavi palya, village. part no. : 331","331 - MATHA'S INTERNATIONAL SCHOOL,ROOM NO -",312,188,44.7,17.3,31.1,38.1,13.5,53.2
+332,"Abbaiah Reddy Layout,Garvebhavi Palya","332 - MATHA'S INTERNATIONAL SCHOOL,ROOM NO -",225,163,44.9,13.8,40.4,31.6,14.2,44.0
+332,"behind matha school, garvebhavi palya part no. : 332","332 - MATHA'S INTERNATIONAL SCHOOL,ROOM NO -",69,61,43.6,14.5,43.5,31.9,10.1,47.8
+332,munireddy compound part no. : 332,"332 - MATHA'S INTERNATIONAL SCHOOL,ROOM NO -",78,70,36.1,43.6,26.9,21.8,7.7,56.4
+333,"Lakshmi Layout, Garwe Bhavi Palya.","333 - MATHA'S INTERNATIONAL SCHOOL,ROOM NO -",402,242,42.5,19.2,40.5,28.6,11.7,51.0
+334,"Lakshmi Layout, Garwe Bhavi Palya.",334 - MATHAS INTERNATIONAL,374,256,40.7,22.2,41.7,28.9,7.2,47.9
+335,"Lakshmi Layout, Garwe Bhavi Palya.",335 - MATHAS INTERNATIONAL,377,242,42.9,14.9,41.6,32.4,11.1,48.8
+336,"Lakshmi Layout, Garwe Bhavi Palya.",336 - MATHAS INTERNATIONAL,341,234,41.2,21.7,41.6,27.0,9.7,47.8
+337,"Lakshmi Layout, Garwe Bhavi Palya.",337 - MATHAS INTERNATIONAL,445,270,43.6,14.6,39.6,35.7,10.1,48.1
+337,garve bhavi palya part no. : 337,337 - MATHAS INTERNATIONAL,31,17,47.7,16.1,22.6,38.7,22.6,45.2
+338,"novel behind, garvebavi palya. 1 г part no. : 338",338 - NEW BHARATH INTERNATIONAL SCHOOL,393,272,43.7,9.2,51.7,27.7,11.5,47.1
+339,chikkabeguru gate garve bavi palya- part no. : 339,339 - NEW BHARATH INTERNATIONAL SCHOOL,364,276,43.0,18.1,40.9,31.0,9.9,55.2
+339,overseas electors part no. : 339,339 - NEW BHARATH INTERNATIONAL SCHOOL,35,24,46.4,5.7,54.3,11.4,28.6,54.3
+340,AMBEDKAR NAGAR,"340 - Jnana Jyothi English Convent, AECS Layout B",33,25,48.9,9.1,18.2,57.6,15.2,51.5
+340,chikkabeguru gate part no. : 340,"340 - Jnana Jyothi English Convent, AECS Layout B",390,235,41.2,20.0,45.6,25.1,9.2,53.6
+341,hulimavu gramathana part no. : 341,341 - ST MARINAS ENGLISH SCHOOL HULIMAVU,491,325,47.3,10.8,33.6,33.8,21.8,51.1
+342,"Hulimavu free house colony 1st,2nd,3rd,Cross",342 - ST MARINAS ENGLISH SCHOOL HULIMAVU,31,29,28.6,67.7,25.8,6.5,0.0,45.2
+342,hulimavu gramathana part no. : 342,342 - ST MARINAS ENGLISH SCHOOL HULIMAVU,311,202,45.5,11.9,37.3,33.1,17.7,44.1
+343,"Hulimavu free house colony 1st,2nd,3rd,Cross",343 - ST MARINAS ENGLISH SCHOOL HULIMAVU,468,323,42.2,22.9,37.0,28.8,11.3,47.2
+343,hulimavu gramathana part no. : 343,343 - ST MARINAS ENGLISH SCHOOL HULIMAVU,9,9,42.2,22.2,33.3,44.4,0.0,55.6
+344,Doddamma Layout (Left Side),344 - ST MARINAS ENGLISH SCHOOL HULIMAVU,113,94,38.9,43.4,27.4,13.3,15.9,49.6
+344,Muneshwar Layout,344 - ST MARINAS ENGLISH SCHOOL HULIMAVU,414,284,44.4,11.8,44.0,31.2,13.0,49.3
+345,Pai Layout,345 - CHAITANYA E-TECHNO SCHOOL ROOM NO-01,658,422,48.8,10.6,31.5,32.7,25.2,47.3
+346,Thimmappa Reddy LayoutHulimavu,346 - CHAITANYA E-TECHNO SCHOOL ROOM NO-02,505,290,47.1,14.7,30.9,32.7,21.8,48.5
+346,s o s balagram part no. : 346,346 - CHAITANYA E-TECHNO SCHOOL ROOM NO-02,87,39,43.0,24.1,32.2,23.0,20.7,49.4
+347,Doddamma Layout (Right Side),347 - CHAITANYA E-TECHNO SCHOOL ROOM NO-03,264,177,47.1,11.0,37.5,33.0,18.6,46.6
+347,fraid apartment- 7 part no. : 347,347 - CHAITANYA E-TECHNO SCHOOL ROOM NO-03,7,7,34.4,14.3,85.7,0.0,0.0,71.4
+347,minakshi temple part no. : 347,347 - CHAITANYA E-TECHNO SCHOOL ROOM NO-03,119,99,49.5,9.2,31.1,38.7,21.0,48.7
+347,ramaiah garden t. hulimavu(mavina thopu) part no. : 347,347 - CHAITANYA E-TECHNO SCHOOL ROOM NO-03,52,48,43.2,21.2,26.9,36.5,15.4,50.0
+348,Doddamma Layout (Right Side),348 - CHAITANYA E-TECHNO SCHOOL ROOM NO-04,9,9,51.7,11.1,33.3,11.1,44.4,22.2
+348,fraid apartment- part no. : 348,348 - CHAITANYA E-TECHNO SCHOOL ROOM NO-04,72,49,48.4,6.9,31.9,41.7,19.4,48.6
+348,minakshi temple part no. : 348,348 - CHAITANYA E-TECHNO SCHOOL ROOM NO-04,225,165,47.8,12.4,32.0,32.9,22.7,51.1
+348,ramaiah garden t. hulimavu(mavina thopu) part no. : 348,348 - CHAITANYA E-TECHNO SCHOOL ROOM NO-04,236,168,47.6,11.0,33.1,32.6,23.3,47.0
+349,Nyanappan Bande Palya Road,349 - BLUEZONE PUBILC SCHOOL ROOM NO-1,621,431,41.3,23.3,42.0,21.7,12.9,49.8
+350,Nyanappan Bande Palya Road,350 - BLUE ZONE PUBILC SCHOOL ROOM NO-2,832,593,44.5,16.9,37.4,27.5,18.1,49.0
+350,overseas electors part no. : 350,350 - BLUE ZONE PUBILC SCHOOL ROOM NO-2,9,9,39.1,22.2,44.4,22.2,11.1,77.8
+351,Nyanappan halli section Avani Shrugeri Nagar,351 - GOVT LOWER PRIMARY SCHOOL,760,492,45.8,13.2,38.2,29.3,19.3,51.3
+351,rayal residency nyanapanahalli 1 г part no. : 351,351 - GOVT LOWER PRIMARY SCHOOL,256,174,47.3,17.2,29.3,30.5,23.0,50.4
+352,Nyanappan village section r r layout,352 - GOVT LOWER PRIMARY SCHOOL,154,94,54.4,9.1,21.4,35.1,34.4,44.8
+352,nyanappan halli saraswathi puram- part no. : 352,352 - GOVT LOWER PRIMARY SCHOOL,776,495,47.2,11.0,36.2,32.5,20.4,49.2
+352,overseas electors part no. : 352,352 - GOVT LOWER PRIMARY SCHOOL,64,50,43.4,28.1,26.6,25.0,20.3,46.9
+352,"rashifraid, nynappahalli part no. : 352",352 - GOVT LOWER PRIMARY SCHOOL,17,17,45.1,5.9,41.2,41.2,11.8,52.9
+352,rayal residency nyanapanahalli 1 г part no. : 352,352 - GOVT LOWER PRIMARY SCHOOL,49,44,37.2,44.9,22.4,22.4,10.2,51.0
+353,Nyanappan Bande Palya Road,"353 - GOVT LOWER PRIMARY SCHOOL,",375,207,46.1,11.5,32.5,44.0,12.0,47.5
+353,Nyanappan halli section Avani Shrugeri Nagar,"353 - GOVT LOWER PRIMARY SCHOOL,",441,303,44.3,14.1,40.1,30.4,15.4,52.4
+353,Sri Encleave Layout,"353 - GOVT LOWER PRIMARY SCHOOL,",65,36,45.0,15.4,36.9,30.8,16.9,52.3
+353,janhavi paradise part no. : 353,"353 - GOVT LOWER PRIMARY SCHOOL,",18,13,43.1,16.7,44.4,33.3,5.6,44.4
+354,Nyanappan Village Sugama Layout,"354 - GOVT LOWER PRIMARY SCHOOL,",669,342,44.2,17.2,37.1,29.9,15.8,49.5
+355,hulimavu gramathana- part no. : 355,355 - ANGANAVADI SCHOOL (GOVT MODEL,566,299,44.7,12.2,40.3,34.1,13.4,50.0
+356,hulimavu gramathana- part no. : 356,356 - ANGANAVADI SCHOOL (GOVT MODEL,413,263,46.1,12.6,36.8,32.2,18.4,46.5
+357,"Hulimavu ,Bhagavathi Layout (Ramesh House Road)",357 - LORDS SCHOOL NEAR SATHYANARAYANA,629,383,49.0,12.4,32.1,27.8,27.7,51.0
+358,Bhagavathi LayoutHulimavu,358 - LORDS SCHOOL NEAR SATHYANARAYANA,348,240,48.1,9.5,34.5,33.9,22.1,51.4
+358,Kempamma LayoutHulimavu,358 - LORDS SCHOOL NEAR SATHYANARAYANA,55,52,39.9,20.0,52.7,20.0,7.3,45.5
+359,Bhagavathi LayoutHulimavu,359 - LORDS SCHOOL NEAR SATHYANARAYANA,13,11,42.8,23.1,30.8,15.4,30.8,46.2
+359,Kempamma LayoutHulimavu,359 - LORDS SCHOOL NEAR SATHYANARAYANA,483,342,47.5,14.3,34.0,29.4,22.4,51.6
+360,"Hulimavu ,Someshwara LayoutHulimavu",360 - NARAYANA E- TECHNO SCHOOL ROOM NO-01,713,420,45.3,16.4,35.6,30.2,17.8,50.1
+361,"Hulimavu ,Someshwara LayoutHulimavu",361 - NARAYANA E - TECHNO SCHOOL ROOM NO-02,671,457,47.3,11.8,33.2,35.9,19.1,49.8
+362,"Hulimavu Krishna Layout,",362 - GOVT MODEL HIGHER PRIMARY SCHOOL,405,231,41.9,22.0,41.0,23.5,13.6,52.3
+363,"Hulimavu Krishna Layout,",363 - GOVT MODEL HIGHER PRIMARY SCHOOL,439,283,44.6,19.4,31.0,34.4,15.3,48.3
+364,"Hulimavu Krishna Layout,",364 - GOVT MODEL HIGHER PRIMARY SCHOOL,419,287,42.4,18.9,41.3,27.7,12.2,47.0
+364,Madhuban layout,364 - GOVT MODEL HIGHER PRIMARY SCHOOL,113,85,47.0,12.4,33.6,33.6,20.4,53.1
+364,Raghavendra Layout,364 - GOVT MODEL HIGHER PRIMARY SCHOOL,280,190,47.4,18.9,30.4,22.9,27.9,48.6
+365,Mutthuraya Swamy LayoutHulimavu,365 - NARAYANA E- TECHNO SCHOOL ROOM NO-03,749,444,46.0,15.6,31.6,32.6,20.2,48.1
+366,Mutthuraya Swamy LayoutHulimavu,366 - NARAYANA E- TECHNO SCHOOL ROOM NO-04,358,240,44.3,17.6,35.2,31.6,15.6,47.8
+366,Venugopal NagarHulimavu,366 - NARAYANA E- TECHNO SCHOOL ROOM NO-04,210,137,42.8,31.9,18.1,34.8,15.2,47.1
+367,Venugopal NagarHulimavu,367 - NARAYANA E- TECHNO SCHOOL ROOM NO-05,712,365,44.0,14.0,39.9,33.1,12.9,47.3
+368,C.K. NAGAR,"368 - Channakeshava High School, Parappana Agrahara",86,77,37.9,33.7,38.4,16.3,11.6,41.9
+368,"Central Jail Road Right Side, Free Sites , Chennakeshava","368 - Channakeshava High School, Parappana Agrahara",647,320,44.6,14.1,40.2,31.8,13.9,50.5
+369,Central Jail Road Left Side 4th Cross from Channakeshava,"369 - Channakeshava High School, Parappana Agrahara",509,276,45.1,12.4,41.7,29.5,16.5,47.9
+370,Central Jail Road Left Side 4th Cross from Channakeshava,"370 - Channakeshava High School, Parappana Agrahara",532,293,46.3,13.9,31.4,33.1,21.6,44.2
+371,C.K. NAGAR,"371 - Channakeshava Higher Primary School,",76,70,34.6,44.7,35.5,11.8,7.9,46.1
+371,Central Jail Road Left Side 4th Cross from Channakeshava,"371 - Channakeshava Higher Primary School,",456,266,44.5,14.3,38.4,34.2,13.2,48.5
+372,Kudlu Parappana Agrahara Road Left Side Free Houses,"372 - Channakeshava Higher Primary School,",493,265,44.7,13.6,38.3,34.7,13.4,45.0
+373,Kudlu Parappana Agrahara Road Left Side Free Houses,"373 - Channakeshava Higher Primary School,",514,275,45.2,11.3,40.9,35.0,12.8,48.4
+374,Kudlu Parappana Agrahara Road Left Side Free Houses,"374 - Channakeshava Higher Primary School,",375,224,43.8,18.7,35.5,32.0,13.9,46.7
+375,"Parappan Agrahara Road Right Side, 1st Main Road to 4th","375 - Channakeshava Higher Primary School,",633,337,46.0,15.2,32.4,33.3,19.1,47.4
+376,"Village Main Road Left Side, Singasandra","376 - Govt. Higher Kannada Primary School, Hosur Main",520,315,43.3,18.3,36.9,33.3,11.5,48.8
+377,"Village Main Road Left Side , Singasandra","377 - Govt. Higher Kannada Primary School, Hosur Main",607,375,43.2,16.1,44.2,28.5,11.2,50.7
+378,B.T.S Layout - Singasandra,"378 - Govt. Higher Kannada Primary School, Hosur Main",47,38,44.8,21.3,25.5,42.6,10.6,48.9
+378,"Village Main Road Left Side , Singasandra","378 - Govt. Higher Kannada Primary School, Hosur Main",471,312,41.5,22.5,41.0,26.1,10.4,51.2
+379,Revenue Layout-Singasandra,"379 - Little Elly Pre School, Manipal County Road,",470,320,43.3,12.8,47.2,29.6,10.4,52.1
+380,"Ambedkar Nagar, Singasandra","380 - Little Elly Pre School, Manipal County Road,",6,6,33.5,33.3,50.0,16.7,0.0,16.7
+380,Revenue Layout-Singasandra,"380 - Little Elly Pre School, Manipal County Road,",341,253,43.1,14.1,46.3,28.4,11.1,53.1
+381,"Ambedkar Nagar, Singasandra","381 - Little Elly Pre School, Manipal County Road,",394,285,47.5,9.1,37.1,36.0,17.8,40.1
+381,Revenue Layout-Singasandra,"381 - Little Elly Pre School, Manipal County Road,",73,59,38.8,27.4,43.8,19.2,9.6,50.7
+382,"Ambedkar Nagar, Singasandra","382 - Little Elly Pre School, Manipal County Road,",517,341,45.4,13.5,35.0,37.3,14.1,53.0
+383,Aishwarya Krishna Layout,"383 - Little Elly Pre School, Manipal County Road,",19,19,40.3,26.3,47.4,5.3,21.1,52.6
+383,"B Block, AECS Layout, Singasandra","383 - Little Elly Pre School, Manipal County Road,",235,169,45.7,13.2,41.3,27.2,18.3,48.9
+383,Green Garden Layout,"383 - Little Elly Pre School, Manipal County Road,",9,9,37.3,22.2,66.7,0.0,11.1,77.8
+383,"Hosur Road, Right Side, Singasandra","383 - Little Elly Pre School, Manipal County Road,",282,191,46.0,9.9,39.7,33.3,17.0,48.9
+383,S R K Pyaradaise Layout,"383 - Little Elly Pre School, Manipal County Road,",6,4,45.8,16.7,33.3,33.3,16.7,33.3
+383,Vellingtan Layout,"383 - Little Elly Pre School, Manipal County Road,",5,5,35.0,20.0,80.0,0.0,0.0,80.0
+383,koliyandalij apartment part no. : 383,"383 - Little Elly Pre School, Manipal County Road,",18,18,40.5,11.1,61.1,22.2,5.6,44.4
+383,vensa residency appartment singasandra 7 г- part no. : 383,"383 - Little Elly Pre School, Manipal County Road,",20,19,37.9,35.0,40.0,10.0,15.0,60.0
+384,Aishwarya Krishna Layout,"384 - Little Elly Pre School, Manipal County Road,",55,46,43.7,12.7,52.7,20.0,14.5,56.4
+384,"B Block, AECS Layout, Singasandra","384 - Little Elly Pre School, Manipal County Road,",122,106,42.0,20.5,43.4,19.7,16.4,43.4
+384,Green Garden Layout,"384 - Little Elly Pre School, Manipal County Road,",55,39,48.6,12.7,23.6,43.6,20.0,54.5
+384,"Hosur Road, Right Side, Singasandra","384 - Little Elly Pre School, Manipal County Road,",82,75,40.6,26.8,34.1,23.2,15.9,52.4
+384,Prashanth Garden Layout,"384 - Little Elly Pre School, Manipal County Road,",9,8,51.3,11.1,22.2,33.3,33.3,55.6
+384,S R K Pyaradaise Layout,"384 - Little Elly Pre School, Manipal County Road,",6,6,40.0,0.0,83.3,16.7,0.0,33.3
+384,Vellingtan Layout,"384 - Little Elly Pre School, Manipal County Road,",86,63,43.5,18.6,40.7,29.1,11.6,47.7
+384,balaji krupa part no. : 384,"384 - Little Elly Pre School, Manipal County Road,",27,18,48.0,0.0,55.6,29.6,14.8,59.3
+384,divyajyothi rayal kownti apartment part no. : 384,"384 - Little Elly Pre School, Manipal County Road,",64,48,48.4,4.7,35.9,45.3,14.1,43.8
+384,g r shanthinivas apartment part no. : 384,"384 - Little Elly Pre School, Manipal County Road,",86,69,44.9,4.7,52.3,32.6,10.5,47.7
+384,koliyandalij apartment part no. : 384,"384 - Little Elly Pre School, Manipal County Road,",29,23,46.8,13.8,31.0,44.8,10.3,55.2
+384,vensa residency appartment singasandra 7 г- part no. : 384,"384 - Little Elly Pre School, Manipal County Road,",68,55,42.6,16.2,39.7,32.4,11.8,47.1
+385,"gramathana, singasandra part no. : 385","385 - Govt. Higher Kannada Primary School, Hosur Main",396,251,43.2,18.7,40.2,26.3,14.9,49.7
+386,"gramathana, singasandra part no. : 386","386 - Govt. Higher Kannada Primary School, Hosur Main",491,300,45.0,11.8,43.6,28.9,15.7,47.9
+387,"Revenue layout,Singasandra",387 - KAVERI VIDHYAKSHETRAM NO 226 8TH CROSS,310,162,42.8,10.0,49.0,33.5,7.4,51.0
+388,"Revenue layout,Singasandra",388 - KAVERI VIDHYAKSHETRAM NO 226 8TH CROSS,338,245,41.3,18.9,45.6,26.3,9.2,49.1
+389,"AECS, Layout, A Block, Singasandra",389 - KAVERI VIDHYAKSHETRAM NO 226 8TH CROSS,150,128,38.7,22.7,52.0,17.3,8.0,47.3
+389,Revenue Layout- Singasandra,389 - KAVERI VIDHYAKSHETRAM NO 226 8TH CROSS,253,151,44.7,13.8,40.7,29.2,16.2,51.8
+390,"AECS, Layout, A Block, Singasandra",390 - KAVERI VIDHYAKSHETRAM NO 226 8TH CROSS,241,200,42.3,19.1,40.2,30.7,10.0,53.5
+390,Revenue Layout- Singasandra,390 - KAVERI VIDHYAKSHETRAM NO 226 8TH CROSS,382,279,42.3,19.6,41.4,26.2,12.8,50.3
